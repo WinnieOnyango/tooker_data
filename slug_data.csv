@@ -1,0 +1,210 @@
+"year","scouting_data","county","nearby_town","growth_stage","pest_pathogen","pest_pathogen_sp","severity","field_number"
+2013,"02-Jul","Montgomery","","V3-V4","Slug","Slug",1,1
+2013,"01-Jul","Lancaster","","R1","Slug","Slug",1,1
+2013,"01-Jul","Mercer","","V11","Slug","Slug",1,1
+2013,"15-Jul","Mercer","","R1","Slug","Slug",1,1
+2013,"08-Jul","Lancaster","","R1","Slug","Slug",1,1
+2013,"08-Jul","Mercer","","R1","Slug","Slug",1,1
+2013,"03-Jul","Elk","","V3","Slug","Slug",1,1
+2013,"03-Jul","Mckean","","V3","Slug","Slug",1,1
+2013,"22-Jul","Elk","","V6","Slug","Slug",1,1
+2013,"22-Jul","Mckean","","R1","Slug","Slug",1,1
+2013,"10-Jul","Elk","","R4","Slug","Slug",1,1
+2013,"10-Jul","Mckean","","R1","Slug","Slug",1,1
+2013,"18-Jun","Montgomery","","V1-V2","Slug","Slug",5,1
+2013,"14-Jun","Lancaster","","V4","Slug","Slug",4,1
+2013,"14-Jun","Lebanon","","V1-V3","Slug","Slug",1,1
+2013,"24-Jun","Lancaster","","V5-V6","Slug","Slug",1,1
+2013,"24-Jun","Elk","","V3","Slug","Slug",1,1
+2013,"24-Jun","Mckean","","V3","Slug","Slug",1,1
+2013,"18-Jun","Lebanon","","V2-V3","Slug","Slug",2,1
+2013,"17-Jun","Mckean","","V2","Slug","Slug",1,1
+2013,"18-Jun","Montgomery","","V1-V2","Slug","Slug",5,1
+2013,"14-Jun","Lancaster","","V4","Slug","Slug",4,1
+2013,"15-Jul","Mercer","","R1","Slug","Slug",1,1
+2013,"08-Jul","Lancaster","","R1","Slug","Slug",1,1
+2014,"08-Aug","Potter","","R3","Slug","Slug",2,1
+2014,"08-Aug","Elk","","R3","Slug","Slug",2,1
+2014,"14-Jul","Mckean","","R1","Slug","Slug",1,1
+2014,"14-Jul","Elk","","V5","Slug","Slug",1,1
+2014,"11-Jul","Potter","","V3","Slug","Slug",1,1
+2014,"07-Jul","Mckean","","V5","Slug","Slug",1,1
+2014,"07-Jul","Elk","","V4","Slug","Slug",1,1
+2014,"16-Jul","Crawford","","VC","Slug","Slug",1,1
+2014,"21-Jul","Mckean","","R2","Slug","Slug",1,1
+2014,"24-Jul","Crawford","","V2","Slug","Slug",1,1
+2014,"23-Jun","Northumberland","","V2","Slug","Slug",2,1
+2014,"23-Jun","Union","","V1","Slug","Slug",2,1
+2014,"23-Jun","Elk","","V1","Slug","Slug",1,1
+2014,"07-Jul","Columbia","","V4","Slug","Slug",2,1
+2014,"07-Jul","Union","","V5","Slug","Slug",2,1
+2014,"01-Jul","Crawford","","V3","Slug","Slug",1,1
+2014,"30-Jun","Columbia","","V2","Slug","Slug",2,1
+2014,"30-Jun","Northumberland","","V3","Slug","Slug",2,1
+2014,"30-Jun","Union","","V3","Slug","Slug",2,1
+2014,"30-Jun","Huntingdon","","V4","Slug","Slug",1,1
+2014,"25-Jun","Huntingdon","","V3","Slug","Slug",1,1
+2014,"10-Jun","Armstrong","","V1","Slug","Slug",1,1
+2014,"02-Jun","Armstrong","","VC","Slug","Slug",1,1
+2015,"14-Jul","Montgomery","","R2","Slug","Slug",1,1
+2015,"14-Jul","Crawford","","V5-R2","Slug","Slug",1,1
+2015,"13-Jul","Lancaster","Mt. Joy","R2","Slug","Slug",1,1
+2015,"13-Jul","Lancaster","Quarryville","R1","Slug","Slug",1,1
+2015,"13-Jul","Mercer","","V5-R2","Slug","Slug",1,1
+2015,"11-Jul","Mckean","","R1","Slug","Slug",1,1
+2015,"11-Jul","Elk","","V4","Slug","Slug",1,1
+2015,"15-Jun","Lancaster","Mt. Joy","V5","Slug","Slug",1.5,1
+2015,"15-Jun","Schuylkill","","V2","Slug","Slug",1,1
+2015,"15-Jun","Union","","VC","Slug","Slug",1,1
+2015,"20-Jul","Crawford","","R1","Slug","Slug",1,1
+2015,"20-Jul","Mercer","","R2","Slug","Slug",1,1
+2015,"19-Jul","Mckean","","R1","Slug","Slug",1,1
+2015,"19-Jul","Elk","","R1","Slug","Slug",1,1
+2015,"22-Jul","Schuylkill","Ringtown","V4","Slug","Slug",1,1
+2015,"22-Jun","Union","","V2","Slug","Slug",2,1
+2015,"22-Jun","Bradford","Wyalusing","V2","Slug","Slug",1,1
+2015,"22-Jun","Montgomery","","V5-V6","Slug","Slug",1,1
+2015,"22-Jun","Lancaster","","V5","Slug","Slug",1,1
+2015,"19-Jun","Tioga","","V4-V5","Slug","Slug",1,2
+2015,"27-Jul","Mercer","Quarryville","R3-R4","Slug","Slug",1,1
+2015,"24-Jul","Mckean","","R2","Slug","Slug",0.5,1
+2015,"24-Jul","Elk","","R2","Slug","Slug",0.5,1
+2015,"30-Jun","Lancaster","Mt. Joy","R1","Slug","Slug",1,1
+2015,"30-Jun","Lancaster","Quarryville","V5","Slug","Slug",2,1
+2015,"29-Jun","Crawford","","V3-V4","Slug","Slug",1,1
+2015,"29-Jun","Potter","","V4","Slug","Slug",1,1
+2015,"29-Jun","Union","","V3","Slug","Slug",2,1
+2015,"29-Jun","Mercer","","V4-V5","Slug","Slug",1,1
+2015,"29-Jun","Tioga","","V4-V5","Slug","Slug",3,1
+2015,"30-Jun","Lancaster","Mt. Joy","R1","Slug","Slug",1,1
+2015,"30-Jun","Lancaster","Quarryville","R5","Slug","Slug",2,2
+2015,"29-Jun","Bradford","","V2","Slug","Slug",1,1
+2015,"29-Jun","Crawford","","V3-V4","Slug","Slug",1,1
+2015,"29-Jun","Potter","","V4","Slug","Slug",1,1
+2015,"29-Jun","Union","","V3","Slug","Slug",2,1
+2015,"29-Jun","Mercer","","V4-V5","Slug","Slug",1,1
+2015,"29-Jun","Tioga","","V4-V5","Slug","Slug",3,1
+2015,"30-Jun","Lancaster","Mt. Joy","R1","Slug","Slug",1,1
+2015,"30-Jun","Lancaster","Quarryville","V5","Slug","Slug",2,2
+2015,"29-Jun","Crawford","","V3-V4","Slug","Slug",1,1
+2015,"29-Jun","Potter","","V4","Slug","Slug",1,1
+2015,"29-Jun","Union","","V3","Slug","Slug",2,1
+2015,"29-Jun","Tioga","","V4-V5","Slug","Slug",3,1
+2016,"01-Aug","Potter","","R1","Slug","Slug",1,1
+2014,"08-Sept","Mercer","","R6","Slug","Slug",1,1
+2014,"1 Septemebr","Mercer","","R6","Slug","Slug",1,1
+2014,"15-Sept","Mercer","","R6","Slug","Slug",1,1
+2019,"08-Jul","Crawford","","V8","Slug","Slug",1,1
+2021,"07-Jun","Bedford","Paris","V1","Slug","Slug",1,1
+2021,"07-Jun","Montgomery","Souderton","V1","Slug","Slug",3,1
+2021,"05-Jun","Blair","Williamsburg","V1","Slug","Slug",1,1
+2021,"05-Jun","Blair","Williamsburg","V1","Slug","Septoria brown spot",1,1
+2021,"06-Jul","Bradford","Sheshequin","R1","Slug","Slug",1,1
+2021,"30-Aug","Somerset","Berlin","R6","Slug","Slug",1,1
+2018,"02-Jul","Armstrong","","R1","Slug","Slug",1,1
+2021,"28-Jun","Butler","Cabot","V3","Slug","Slug",1,1
+2021,"28-Jun","Butler","N. Washington","V3","Slug","Slug",3,1
+2021,"28-Jun","Lancaster","between Manhein and Lititz","R1","Slug","Slug",1,NA
+2021,"22-Jun","Mercer","Grove City","V4","Slug","Slug",1,1
+2021,"27-Jul","Bradford","Sheshequin","R3","Slug","Slug",1,1
+2019,"24-Jun","Bradford","","V1","Slug","Slug",1,1
+2019,"24-Jun","Schuylkill","","V3","Slug","Slug",1,1
+2019,"21-Jun","Union","","V2","Slug","Slug",1,1
+2019,"17-Jun","Potter","","VC","Slug","Slug",1,1
+2021,"17-Aug","Bradford","Sheshequin","R5","Slug","Slug",1,1
+2020,"23-Jun","York","Hellam","V4","Slug","Slug",1,1
+2021,"21-Jun","Bedford","Paris","V3","Slug","Slug",1,1
+2021,"22-Jun","Bradford","Sheshequin","V4","Slug","Slug",1,1
+2021,"21-Jun","Butler","North Washington","V3","Slug","Slug",4,1
+2021,"21-Jun","Butler","Cabot","V3","Slug","Slug",1,1
+2021,"21-Jun","Franklin","Mercersburg","V3-V4","Slug","Slug",4,1
+2021,"21-Jun","Potter","Ulysses","V1","Slug","Slug",1,1
+2021,"21-Jun","York","Stewartstown","V4","Slug","Slug",1,1
+2023,"19-Jun","Lancaster","Manheim","V5.5","Slug","Slug",2,1
+2018,"18-Jun","Cambria","","V1","Slug","Slug",1,1
+2018,"15-Jun","Armstrong","","V1","Slug","Slug",1,1
+2016,"11-Jul","Potter","","V4","Slug","Slug",1,1
+2016,"20-Jun","Potter","","1.5","Slug","Slug",1,1
+2016,"20-Jun","Erie","","V1","Slug","Slug",1,1
+2016,"20-Jun","Erie","","V2-V3","Slug","Slug",1,2
+2016,"20-Jun","Lebanon","","V2-V4","Slug","Slug",1,1
+2016,"20-Jun","Mercer","","V4-V5","Slug","Slug",1,1
+2016,"17-Jun","Perry","","V2","Slug","Slug",1,1
+2016,"05-Jul","Mercer","","R1","Slug","Slug",1,1
+2016,"04-Jul","Potter","","V3","Slug","Slug",1,1
+2016,"06-Jun","Mercer","","V3","Slug","Slug",1,1
+2016,"06-Jun","Montour","","VC","Slug","Slug",2,1
+2016,"06-Jun","Northumberland","","VC","Slug","Slug",1,1
+2016,"01-Jun","Clinton","","VC-V1","Slug","Slug",1,1
+2016,"22-Aug","Potter","","R3","Slug","Slug",1,1
+2017,"07-Jul","Clinton","Mill Hall","VC","Slug","Slug",1,1
+2017,"05-Jul","Clinton","Eastville","V3","Slug","Slug",1,1
+2017,"28-Jun","Clinton","Eastville","V2  ","Slug","Slug",1,1
+2017,"26-Jun","Northumberland","","V3","Slug","Slug",2,1
+2017,"12-Jun","Blair","","V1  ","Slug","Slug",1,1
+2017,"12-Jun","Northumberland","","V1  ","Slug","Slug",2,1
+2017,"12-Jun","Union","","VE","Slug","Slug",1,1
+2017,"08-Jun","York","Stewartstown","V1-V2","Slug","Slug",1,1
+2017,"13-Jul","Clinton","Eastville","V4-V5","Slug","Slug",1,1
+2017,"26-Jun","Crawford","","V3","Slug","Slug",1,1
+2017,"23-Jun","Blair","Martinsburg","V3-V4","Slug","Slug",1,1
+2017,"23-Jun","Clinton","Eastville","V1","Slug","Slug",1,1
+2017,"21-Jun","Clinton","Mill Hall","VC","Slug","Slug",1,1
+2021,"01-Jun","Lancaster","Manheim; Lititz","V2","Slug","Slug",2,1
+2021,"31-May","Bedford","New Paris","VC","Slug","Slug",1,1
+2021,"31-May","Montgomery","Souderton","VC","Slug","Slug",3,1
+2018,"12-Jun","Bradford","","VC","Slug","Slug",1,1
+2018,"12-Jun","Lancaster","","V3","Slug","Slug",1,1
+2023,"12-Jun","Bedford","New Paris","V1","Slug","Slug",1,1
+2021,"15-Jun","Bedford","Portage","V2","Slug","Slug",1,1
+2021,"15-Jun","Centre","Bellefonte","V1","Slug","Slug",1,1
+2021,"15-Jun","Lancaster","Manheim; Lititz","V4","Slug","Slug",2,1
+2021,"14-Jun","Bedford","New Paris","V2","Slug","Slug",1,1
+2021,"14-Jun","Blair","Williamsburg","V4","Slug","Slug",1,1
+2021,"14-Jun","Butler","North Washington","V2","Slug","Slug",5,1
+2021,"14-Jun","Butler","Cabot","V1","Slug","Slug",1,2
+2021,"14-Jun","Franklin","Mercersburg","V2","Slug","Slug",5,1
+2021,"14-Jun","Montgomery","Souderton","V2","Slug","Slug",2,1
+2021,"14-Jun","Northumberland","Riverside","V2","Slug","Slug",1,1
+2021,"14-Jun","Potter","Ulysses","VC","Slug","Slug",1,1
+2021,"14-Jun","York","York","V4","Slug","Slug",1,1
+2021,"14-Jun","York","Stewartstown","V2","Slug","Slug",1,2
+2021,"09-Jun","Perry","","V1","Slug","Slug",1,1
+2019,"14-Jul","Potter","Galeton","R3","Slug","Slug",1,1
+2019,"11-Jul","Franklin","","R2","Slug","Slug",1,1
+2020,"16-Jun","Crawford","Woodcock","V2","Slug","Slug",1,1
+2020,"16-Jun","Montgomery","","V2","Slug","Slug",1,1
+2020,"15-Jun","Northumberland","Hellam","V2","Slug","Slug",1,1
+2019,"18-Jun","Franklin","","R1","Slug","Slug",1,1
+2019,"17-Jun","Bradford","","VC ","Slug","Slug",1,1
+2019,"17-Jun","Montgomery","","VC ","Slug","Slug",1,1
+2019,"14-Jun","Bedford","","V1","Slug","Slug",1,1
+2015,"06-Jul","Bradford","","V2-3","Slug","Slug",1,1
+2015,"06-Jul","Mckean","","V6","Slug","Slug",1,1
+2015,"06-Jul","Lancaster","Mt. Joy","R1","Slug","Slug",1,1
+2015,"06-Jul","Lancaster","Quarryville","R1","Slug","Slug",1,2
+2015,"06-Jul","Mercer","","V5-R1","Slug","Slug",1,1
+2015,"08-Jun","Union","","VC","Slug","Slug",1,1
+2015,"13-Jun","Bradford","","V2","Slug","Slug",1,1
+2015,"13-Jun","Erie","","VE-1","Slug","Slug",1,1
+2015,"13-Jun","Erie","","V2-3","Slug","Slug",1,2
+2015,"13-Jun","Mercer","","V3-4","Slug","Slug",1,1
+2015,"13-Jun","Northumberland","","V1","Slug","Slug",1,1
+2015,"10-Jun","Dauphin","","V1","Slug","Slug",1,1
+2016,"28-Jun","Erie","","V2-3","Slug","Slug",1,1
+2016,"28-Jun","Crawford","","V3-4","Slug","Slug",1,1
+2016,"27-Jun","Mercer","","R1","Slug","Slug",1,1
+2016,"26-Jun","Potter","","V1","Slug","Slug",1,1
+2018,"09-Jul","Centre","","V4","Slug","Slug",1,1
+2018,"11-Sept","Bradford","","R6","Slug","Slug",1,1
+2017,"26-Jun","Crawford","","V3","Slug","Slug",1,1
+2017,"23-Jun","Blair","Martinsburg","V3-V4","Slug","Slug",1,1
+2017,"23-Jun","Clinton","Eastville","V1","Slug","Slug",1,1
+2017,"21-Jun","Clinton","Mill Hall","VC","Slug","Slug",1,1
+2017,"06-Jun","Columbia","","VC","Slug","Slug",1,1
+2017,"06-Jun","Northumberland","","VC","Slug","Slug",3,1
+2017,"06-Jun","Union","","VE","Slug","Slug",1,1
+2019,"11-Jun","Bradford","","VC","Slug","Slug",1,1
+2019,"10-Jun","Franklin","","V3","Slug","Slug",1,1
+2019,"10-Jun","York","","V2","Slug","Slug",1,1
+2019,"03-Jun","Beaver","","VC","Slug","Slug",1,1
