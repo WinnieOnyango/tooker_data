@@ -42,6 +42,15 @@ snail_dt <- soy_data %>%
 mammal_dt <- soy_data %>%
   filter(pest_pathogen == "Mammal")
 
-usethis::use_git()
+#usethis::use_git()
+#saving files to:"C:/Users/Winnie Onyango/Documents/Tooker/tooker_data" 
+write.csv(insect_data, "insect_data.csv", row.names = FALSE)
+write.csv(pathogen_dt, "pathogen_data.csv", row.names = FALSE)
+write.csv(slug_dt, "slug_data.csv", row.names = FALSE)
+write.csv(snail_dt, "snail_data.csv", row.names = FALSE)
+write.csv(mammal_dt, "mammal_data.csv", row.names = FALSE)
+
+usethis::use_git_config(user.name = "Winnie Onyango", user.email = "wao5041@psu.edu")
+usethis::use_github()
 
 
