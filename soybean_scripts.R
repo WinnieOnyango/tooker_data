@@ -52,5 +52,5 @@ write.csv(mammal_dt, "mammal_data.csv", row.names = FALSE)
 
 usethis::use_git_config(user.name = "Winnie Onyango", user.email = "wao5041@psu.edu")
 usethis::use_github()
-
+1
 
