@@ -1,9 +1,9 @@
 "year","scouting_data","county","nearby_town","growth_stage","pest_pathogen","pest_pathogen_sp","severity","field_number"
 2013,"30-Jul","Crawford","","R3","Mammal","Deer",1,1
 2015,"31-Aug","Mercer","","R6","Mammal","Deer",1,1
-2015,"31-Aug","Mercer","","R6","Mammal","Ground hog",1,1
+2015,"31-Aug","Mercer","","R6","Mammal","Groundhog",1,1
 2015,"31-Aug","Crawford","","R6","Mammal","Deer",1,1
-2015,"31-Aug","Crawford","","R6","Mammal","Ground hog",1,1
+2015,"31-Aug","Crawford","","R6","Mammal","Groundhog",1,1
 2015,"14-Sept","Crawford","","R6-R7","Mammal","Deer",1,1
 2015,"08-Sept","Mercer","","R6-R7","Mammal","Deer",1,1
 2013,"19-Aug","Franklin","","R5","Mammal","Deer",1,1
@@ -17,6 +17,7 @@
 2015,"19-Jul","Mckean","","R1","Mammal","Deer",1,1
 2015,"22-Jun","Bradford","Wyalusing","V2","Mammal","Deer",1,1
 2015,"27-Jul","Mercer","Quarryville","R3-R4","Mammal","Deer",1,1
+2015,"24-Jul","Mckean","","R2","Mammal","Deer",1,1
 2015,"29-Jun","Crawford","","V3-V4","Mammal","Deer",1,1
 2015,"29-Jun","Crawford","","V3-V4","Mammal","Groundhog",1,1
 2015,"29-Jun","Mercer","","V4-V5","Mammal","Deer",1,1
@@ -112,7 +113,7 @@
 2015,"06-Jul","Mckean","","V6","Mammal","Deer",1,1
 2015,"06-Jul","Columbia","","V2","Mammal","Deer",1,1
 2015,"06-Jul","Mercer","","V5-R1","Mammal","Deer",1,1
-2015,"06-Jul","Mercer","","V5-R1","Mammal","Ground hog",1,1
+2015,"06-Jul","Mercer","","V5-R1","Mammal","Groundhog",1,1
 2017,"14-Aug","Perry","","R3","Mammal","Deer",1,1
 2024,"29-Aug","Centre","Bellefonte","R6","Mammal","Deer",1,1
 2021,"13-Jul","Beaver","Fombell","R1","Mammal","Deer",1,1

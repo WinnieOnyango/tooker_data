@@ -1,9 +1,9 @@
 "year","scouting_data","county","nearby_town","growth_stage","pest_pathogen","pest_pathogen_sp","severity","field_number"
-2013,"02-Jul","Crawford","","V3-V4","Pathogen","Bacterial leaf blight",1,1
+2013,"02-Jul","Crawford","","V3-V4","Pathogen","Bacterial blight",1,1
 2013,"02-Jul","Crawford","","V3-V4","Pathogen","Septoria brown spot",1,1
 2013,"01-Jul","Lancaster","","R1","Pathogen","Septoria brown spot",1,1
 2013,"29-Jun","Franklin","","V4-V5","Pathogen","Septoria brown spot",1,1
-2013,"28-Jun","Armstrong","","V6-V7","Pathogen","Bacterial leaf blight",1,1
+2013,"28-Jun","Armstrong","","V6-V7","Pathogen","Bacterial blight",1,1
 2013,"28-Jun","Armstrong","","V6-V7","Pathogen","Septoria brown spot",1,1
 2013,"15-Jul","Lancaster","","R2","Pathogen","Septoria brown spot",1,1
 2013,"15-Jul","Montgomery","","R1","Pathogen","Septoria brown spot",1,1
@@ -13,41 +13,43 @@
 2013,"15-Jul","Schuylkill","","R1","Pathogen","Frogeye leaf spot",1,1
 2013,"15-Jul","Schuylkill","","R1","Pathogen","Septoria brown spot",1,1
 2013,"15-Jul","Lebanon","","R1-R2","Pathogen","Frogeye leaf spot",3,1
-2013,"12-Jul","Crawford","","R1-R2","Pathogen","Bacterial leaf blight",1,1
+2013,"12-Jul","Crawford","","R1-R2","Pathogen","Bacterial blight",1,1
 2013,"12-Jul","Crawford","","R1-R2","Pathogen","Septoria brown spot",1,1
 2013,"12-Jul","Crawford","","R1-R2","Pathogen","Frogeye leaf spot",1,1
 2013,"08-Jul","Lancaster","","R1","Pathogen","Septoria brown spot",1,1
-2013,"08-Jul","Armstrong","","R1","Pathogen","Bacterial leaf blight",1,1
+2013,"08-Jul","Armstrong","","R1","Pathogen","Bacterial blight",1,1
 2013,"08-Jul","Armstrong","","R1","Pathogen","Septoria brown spot",1,1
 2013,"08-Jul","Mercer","","R1","Pathogen","Septoria brown spot",1,1
 2013,"08-Jul","Franklin","","V7-V8","Pathogen","Septoria brown spot",1,1
 2013,"08-Jul","Franklin","","V7-V8","Pathogen","Downy mildew",1,1
 2013,"08-Jul","Franklin","","V7-V8","Pathogen","Frogeye leaf spot",1,1
 2013,"07-Jul","Dauphin","","R1","Pathogen","Septoria brown spot",1,1
-2013,"03-Jul","Elk","","V3","Pathogen","Bacterial leaf blight",1,1
+2013,"03-Jul","Elk","","V3","Pathogen","Bacterial blight",1,1
 2013,"03-Jul","Elk","","V3","Pathogen","Septoria brown spot",1,1
-2013,"03-Jul","Mckean","","V3","Pathogen","Bacterial leaf blight",1,1
+2013,"03-Jul","Mckean","","V3","Pathogen","Bacterial blight",1,1
 2013,"03-Jul","Mckean","","V3","Pathogen","Septoria brown spot",1,1
 2013,"03-Jul","Mckean","","V3","Pathogen","Frogeye leaf spot",1,1
 2013,"22-Jul","York","","R1","Pathogen","Septoria brown spot",1,1
 2013,"22-Jul","Franklin","","R2-R3","Pathogen","Septoria brown spot",1,1
 2013,"22-Jul","Franklin","","R2-R3","Pathogen","Downy mildew",1,1
 2013,"22-Jul","Lancaster","","R2","Pathogen","Septoria brown spot",1,1
-2013,"22-Jul","Elk","","V6","Pathogen","Bacterial leaf blight",1,1
+2013,"22-Jul","Elk","","V6","Pathogen","Bacterial blight",1,1
 2013,"22-Jul","Elk","","V6","Pathogen","Septoria brown spot",1,1
-2013,"22-Jul","Mckean","","R1","Pathogen","Bacterial leaf blight",1,1
+2013,"22-Jul","Mckean","","R1","Pathogen","Bacterial blight",1,1
 2013,"22-Jul","Mckean","","R1","Pathogen","Septoria brown spot",3,1
 2013,"21-Jul","Mercer","","R2","Pathogen","Septoria brown spot",1,1
 2013,"19-Jul","Armstrong","","R2","Pathogen","Septoria brown spot",1,1
-2013,"10-Jul","Elk","","R4","Pathogen","Bacterial leaf blight",1,1
+2013,"10-Jul","Elk","","R4","Pathogen","Bacterial blight",1,1
 2013,"10-Jul","Elk","","R4","Pathogen","Septoria brown spot",1,1
 2013,"10-Jul","Elk","","R4","Pathogen","Frogeye leaf spot",1,1
+2013,"10-Jul","Mckean","","R1","Pathogen","Bacterial blight",1,1
+2013,"10-Jul","Mckean","","R1","Pathogen","Septoria brown spot",2,1
 2013,"30-Jul","Franklin","","R3","Pathogen","Septoria brown spot",1,1
 2013,"30-Jul","Franklin","","R3","Pathogen","Downy mildew",1,1
 2013,"29-Jul","Mercer","","R4","Pathogen","Septoria brown spot",1,1
 2013,"29-Jul","Lancaster","","R3","Pathogen","Septoria brown spot",1,1
 2013,"29-Jul","Elk","","V6","Pathogen","Septoria brown spot",1,1
-2013,"29-Jul","Mckean","","R1","Pathogen","Bacterial leaf blight",1,1
+2013,"29-Jul","Mckean","","R1","Pathogen","Bacterial blight",1,1
 2013,"29-Jul","Mckean","","R1","Pathogen","Frogeye leaf spot",2,1
 2013,"29-Jul","Mckean","","R1","Pathogen","Septoria brown spot",3,1
 2013,"29-Jul","Schuylkill","","R3","Pathogen","Frogeye leaf spot",1,1
@@ -58,48 +60,47 @@
 2013,"25-Jul","Berks","","R2-R3","Pathogen","Frogeye leaf spot",1,1
 2013,"25-Jul","Berks","","R2-R3","Pathogen","Phyllosticta leaf spot",1,1
 2013,"25-Jul","York","","R1","Pathogen","Septoria brown spot",1,1
-2012,"06-Sept","York","","R6","Pathogen","Soybean vein necrosis virus",2,1
-2012,"06-Sept","York","","R6","Pathogen","Septoria leaf blight",2,1
+2012,"06-Sept","York","","R6","Pathogen","Soybean vein necrosis",2,1
+2012,"06-Sept","York","","R6","Pathogen","Septoria brown spot",2,1
 2012,"06-Sept","York","","R6","Pathogen","Cercospora leaf blight",2,1
 2012,"31-Aug","Franklin","","R7","Pathogen","Downy mildew",1,1
-2012,"31-Aug","Franklin","","R7","Pathogen","Septoria leaf blight",1,1
-2012,"31-Aug","Franklin","","R7","Pathogen","Soybean vein necrosis virus",1,1
+2012,"31-Aug","Franklin","","R7","Pathogen","Septoria brown spot",1,1
+2012,"31-Aug","Franklin","","R7","Pathogen","Soybean vein necrosis",1,1
 2012,"31-Aug","Franklin","","R7","Pathogen","Frogeye leaf spot",1,1
 2012,"31-Aug","Franklin","","R7","Pathogen","Cercospora leaf blight",1,1
 2012,"10-Aug","York","","R5","Pathogen","Downy mildew",2,1
-2012,"08-Aug","Lebanon","","R4","Pathogen","Phytophthora root & stem root",3,2
-2012,"12-Jul","Lebanon","","R1","Pathogen","Phytophthora root & stem root",4,2
-2012,"14-Sept","York","","R6-R7","Pathogen","Anthracnose",1,1
-2012,"14-Sept","York","","R6-R7","Pathogen","Septoria leaf blight",2,1
+2012,"08-Aug","Lebanon","","R4","Pathogen","Phytophthora root and stem rot",3,2
+2012,"12-Jul","Lebanon","","R1","Pathogen","Phytophthora root and stem rot",4,2
+2012,"14-Sept","York","","R6-R7","Pathogen","Anthracnose stem blight",1,1
+2012,"14-Sept","York","","R6-R7","Pathogen","Septoria brown spot",2,1
 2012,"14-Sept","York","","R6-R7","Pathogen","Cercospora leaf blight",2,1
 2012,"17-Aug","York","","R5.5","Pathogen","Downy mildew",2,1
 2012,"17-Aug","York","","R5.5","Pathogen","Cercospora leaf blight",1,1
-2012,"17-Aug","York","","R5.5","Pathogen","Septoria leaf blight",1,1
-2012,"13-Aug","Tioga","","R5","Pathogen","Septoria leaf blight",3,2
+2012,"17-Aug","York","","R5.5","Pathogen","Septoria brown spot",1,1
+2012,"13-Aug","Tioga","","R5","Pathogen","Septoria brown spot",3,2
 2012,"23-Jul","York","","R2-R3","Pathogen","Downy mildew",1,1
-2012,"19-Jul","Lebanon","","R1","Pathogen","Phytophthora root & stem root",5,2
+2012,"19-Jul","Lebanon","","R1","Pathogen","Phytophthora root and stem rot",5,2
 2012,"17-Jul","Tioga","","R1","Pathogen","Septoria brown spot",1,2
 2012,"Aug-28","Lebanon","","R6","Pathogen","Frogeye leaf spot",1,1
 2012,"24-Aug","York","","R5.5","Pathogen","Downy mildew",2,1
 2012,"24-Aug","York","","R5.5","Pathogen","Cercospora leaf blight",1,1
-2012,"24-Aug","York","","R5.5","Pathogen","Septoria leaf blight",1,1
-2012,"22-Aug","Montgomery","","-","Pathogen","Septoria leaf blight",1,1
+2012,"24-Aug","York","","R5.5","Pathogen","Septoria brown spot",1,1
+2012,"22-Aug","Montgomery","","-","Pathogen","Septoria brown spot",1,1
 2012,"26-Jul","Franklin","","R4","Pathogen","Downy mildew",1,1
-2012,"26-Jul","Franklin","","R4","Pathogen","Septoria leaf blight",1,1
-2012,"25-Jul","Lebanon","","R3","Pathogen","Phytophthora root & stem root",5,2
-2012,"03-Aug","Montgomery","","R3","Pathogen","Septoria leaf blight",1,1
+2012,"26-Jul","Franklin","","R4","Pathogen","Septoria brown spot",1,1
+2012,"25-Jul","Lebanon","","R3","Pathogen","Phytophthora root and stem rot",5,2
+2012,"03-Aug","Montgomery","","R3","Pathogen","Septoria brown spot",1,1
 2012,"03-Aug","Franklin","","-","Pathogen","Downy mildew",1,1
-2012,"03-Aug","Franklin","","-","Pathogen","Septoria leaf blight",1,1
-2012,"03-Aug","Franklin","","-","Pathogen","Soybean vein necrosis virus",1,1
+2012,"03-Aug","Franklin","","-","Pathogen","Septoria brown spot",1,1
+2012,"03-Aug","Franklin","","-","Pathogen","Soybean vein necrosis",1,1
 2012,"02-Aug","York","","R3","Pathogen","Downy mildew",1,1
-2012,"02-Aug","York","","R3","Pathogen","Septoria leaf blight",1,1
-2012,"01-Aug","Lebanon","","R3","Pathogen","Phytophthora root & stem root",5,2
+2012,"02-Aug","York","","R3","Pathogen","Septoria brown spot",1,1
+2012,"01-Aug","Lebanon","","R3","Pathogen","Phytophthora root and stem rot",5,2
 2015,"31-Aug","Berks","","R6","Pathogen","Frogeye leaf spot",2,1
 2015,"31-Aug","Berks","","R5","Pathogen","Frogeye leaf spot",1,2
-2015,"31-Aug","Crawford","","R6","Pathogen","Bacterial pustule",2,1
+2015,"31-Aug","Crawford","","R6","Pathogen","Soybean bacterial pustule",2,1
 2015,"31-Aug","York","","R6","Pathogen","Downy mildew",1,1
 2015,"31-Aug","York","","R6","Pathogen","Septoria brown spot",1,1
-2015,"31-Aug","Northumberland","","R6","Pathogen","Japanese beetle",1,1
 2015,"31-Aug","Northumberland","","R6","Pathogen","Septoria brown spot",1,1
 2015,"31-Aug","Union","","R6","Pathogen","Septoria brown spot",1,1
 2015,"31-Aug","Union","","R6","Pathogen","Cercospora leaf blight",1,1
@@ -118,17 +119,19 @@
 2013,"09-Sept","Armstrong","","R6","Pathogen","Septoria brown spot",1,1
 2013,"09-Sept","Armstrong","","R6","Pathogen","White mold",1,1
 2013,"09-Sept","Mercer","","R6","Pathogen","Downy mildew",1,1
-2013,"09-Sept","Mercer","","R6","Pathogen","Bacterial leaf blight",1,1
+2013,"09-Sept","Mercer","","R6","Pathogen","Bacterial blight",1,1
 2013,"09-Sept","Mercer","","R6","Pathogen","Septoria brown spot",2,1
+2013,"15-Jul","Lancaster","","R2","Pathogen","Septoria brown spot",1,1
+2013,"15-Jul","Montgomery","","R1","Pathogen","Septoria brown spot",1,1
 2013,"15-Jul","Franklin","","R2","Pathogen","Septoria brown spot",1,1
-2013,"15-Jul","Mercer","","R1","Pathogen","Septoria leaf blight",1,1
+2013,"15-Jul","Mercer","","R1","Pathogen","Septoria brown spot",1,1
 2013,"15-Jul","Armstrong","","R1","Pathogen","Septoria brown spot",1,1
 2013,"15-Jul","Schuylkill","","R1","Pathogen","Frogeye leaf spot",1,1
 2013,"15-Jul","Schuylkill","","R1","Pathogen","Septoria brown spot",1,1
-2013,"12-Jul","Crawford","","R1-R2","Pathogen","Bacterial leaf blight",1,1
+2013,"12-Jul","Crawford","","R1-R2","Pathogen","Bacterial blight",1,1
 2013,"12-Jul","Crawford","","R1-R2","Pathogen","Septoria brown spot",1,1
 2013,"12-Jul","Crawford","","R1-R2","Pathogen","Cercospora leaf blight",1,1
-2013,"08-Jul","Lancaster","","R1","Pathogen","Septoria leaf blight",1,1
+2013,"08-Jul","Lancaster","","R1","Pathogen","Septoria brown spot",1,1
 2013,"14-Sept","Armstrong","","R7","Pathogen","Downy mildew",1,1
 2013,"14-Sept","Armstrong","","R7","Pathogen","Frogeye leaf spot",1,1
 2013,"14-Sept","Armstrong","","R7","Pathogen","Septoria brown spot",1,1
@@ -158,7 +161,7 @@
 2013,"03-Sept","Schuylkill","","R6","Pathogen","Septoria brown spot",1,1
 2013,"03-Sept","Schuylkill","","R6","Pathogen","Frogeye leaf spot",2,1
 2013,"03-Sept","Mckean","","R5","Pathogen","Frogeye leaf spot",2,1
-2013,"03-Sept","Mercer","","R6","Pathogen","Bacterial leaf blight",1,1
+2013,"03-Sept","Mercer","","R6","Pathogen","Bacterial blight",1,1
 2013,"03-Sept","Mercer","","R6","Pathogen","Septoria brown spot",2,1
 2013,"29-Aug","York","","R5","Pathogen","Downy mildew",1,1
 2013,"06-Aug","Lancaster","","R4","Pathogen","Septoria brown spot",1,1
@@ -178,14 +181,18 @@
 2013,"02-Aug","Armstrong","","R3","Pathogen","White mold",1,1
 2014,"10-Aug","Bradford","","R4","Pathogen","Septoria brown spot",1,1
 2014,"10-Aug","Bradford","","R4","Pathogen","Frogeye leaf spot",1,1
+2014,"15-Jul","Schuylkill","","V6-R1","Pathogen","Septoria brown spot",1,1
+2014,"14-Jul","Mckean","","R1","Pathogen","Frogeye leaf spot",1,1
+2014,"14-Jul","Armstrong","","R1","Pathogen","Septoria brown spot",1,1
+2014,"14-Jul","Lancaster","","R2-R3","Pathogen","Septoria brown spot",1,1
 2014,"07-Jul","Mckean","","V5","Pathogen","Septoria brown spot",1,1
 2014,"07-Jul","Mercer","","V4","Pathogen","Septoria brown spot",1,1
 2014,"21-Jul","Armstrong","","R2","Pathogen","Septoria brown spot",1,1
 2014,"21-Jul","Lancaster","","R2","Pathogen","Septoria brown spot",1,1
 2014,"20-Jul","Bradford","","R1","Pathogen","Septoria brown spot",3,1
 2014,"16-Jul","York","","R2","Pathogen","Downy mildew",1,1
-2014,"23-Jun","Northumberland","","V2","Pathogen","Cercospora",1,1
-2014,"23-Jun","Union","","V1","Pathogen","Cercospora",2,1
+2014,"23-Jun","Northumberland","","V2","Pathogen","Cercospora leaf blight",1,1
+2014,"23-Jun","Union","","V1","Pathogen","Cercospora leaf blight",2,1
 2014,"23-Jun","Mckean","","V2","Pathogen","Septoria brown spot",2,1
 2014,"17-Jun","Lancaster","","V4","Pathogen","Frogeye leaf spot",1,1
 2014,"28-Jul","Schuylkill","","R3","Pathogen","Septoria brown spot",1,1
@@ -195,6 +202,7 @@
 2014,"25-Jul","York","","R3","Pathogen","Downy mildew",1,1
 2014,"05-Aug","Schuylkill","","R3","Pathogen","Septoria brown spot",1,1
 2014,"04-Aug","Armstrong","","R3","Pathogen","Septoria brown spot",1,1
+2014,"04-Aug","Mercer","","R3","Pathogen","Septoria brown spot",1,1
 2014,"03-Aug","Bradford","","R3","Pathogen","Septoria brown spot",3,1
 2014,"01-Aug","Potter","","R1","Pathogen","Frogeye leaf spot",2,1
 2014,"01-Aug","Potter","","R1","Pathogen","Septoria brown spot",1,1
@@ -208,11 +216,11 @@
 2014,"30-Jun","Mckean","","V2","Pathogen","Septoria brown spot",2,1
 2014,"30-Jun","Armstrong","","V4","Pathogen","Septoria brown spot",1,1
 2015,"14-Jul","Montgomery","","R2","Pathogen","Septoria brown spot",2,1
-2015,"14-Jul","Montgomery","","R2","Pathogen","Soybean vein necrosis virus",2,1
-2015,"14-Jul","Crawford","","V5-R2","Pathogen","Bacterial pustules",1,1
+2015,"14-Jul","Montgomery","","R2","Pathogen","Soybean vein necrosis",2,1
+2015,"14-Jul","Crawford","","V5-R2","Pathogen","Soybean bacterial pustule",1,1
 2015,"13-Jul","Lancaster","Quarryville","R1","Pathogen","Septoria brown spot",2,1
 2015,"13-Jul","Mercer","","V5-R2","Pathogen","Septoria brown spot",1,1
-2015,"13-Jul","Columbia","","R1","Pathogen","Cercospora",1,1
+2015,"13-Jul","Columbia","","R1","Pathogen","Cercospora leaf blight",1,1
 2015,"11-Jul","Mckean","","R1","Pathogen","Septoria brown spot",1,1
 2015,"15-Jun","York","","V3","Pathogen","Septoria brown spot",1,1
 2015,"15-Jun","Montgomery","","V4","Pathogen","Septoria brown spot",1,1
@@ -220,8 +228,10 @@
 2015,"15-Jun","Union","","VC","Pathogen","Septoria brown spot",1,1
 2015,"20-Jul","Franklin","Greencastle","R3","Pathogen","Septoria brown spot",2,1
 2015,"20-Jul","Franklin","Greencastle","R3","Pathogen","Frogeye leaf spot",2,1
+2015,"20-Jul","Montgomery","","R3","Pathogen","Septoria brown spot",2,1
 2015,"20-Jul","Lancaster","Quarryville","R3","Pathogen","Septoria brown spot",1,1
 2015,"20-Jul","Crawford","","R1","Pathogen","Septoria brown spot",1,1
+2015,"20-Jul","Mercer","","R2","Pathogen","Septoria brown spot",1,1
 2015,"19-Jul","Mckean","","R1","Pathogen","Septoria brown spot",1,1
 2015,"19-Jul","Potter","","V5","Pathogen","Septoria brown spot",1,1
 2015,"19-Jul","Potter","","V5","Pathogen","Frogeye leaf spot",1,1
@@ -233,8 +243,7 @@
 2015,"27-Jul","Mercer","Quarryville","R3-R4","Pathogen","Septoria brown spot",1,1
 2015,"24-Jul","York","","R3","Pathogen","Downy mildew",1,1
 2015,"24-Jul","Mckean","","R2","Pathogen","Septoria brown spot",1.5,1
-2015,"24-Jul","Mckean","","R2","Pathogen","Deer",1,1
-2015,"29-Jun","Potter","","V4","Pathogen","Bacterial pustules",1,1
+2015,"29-Jun","Potter","","V4","Pathogen","Soybean bacterial pustule",1,1
 2015,"29-Jun","Potter","","V4","Pathogen","Cercospora leaf blight",1,1
 2015,"29-Jun","Potter","","V4","Pathogen","Septoria brown spot",1,1
 2015,"29-Jun","Columbia","","V1","Pathogen","Cercospora leaf blight",1,1
@@ -244,7 +253,7 @@
 2015,"29-Jun","Mercer","","V4-V5","Pathogen","Septoria brown spot",1,1
 2015,"26-Jun","Franklin","","R1-R2","Pathogen","Frogeye leaf spot",1,1
 2015,"29-Jun","Crawford","","V3-V4","Pathogen","Septoria brown spot",1,1
-2015,"29-Jun","Potter","","V4","Pathogen","Bacterial leaf wilt",1,1
+2015,"29-Jun","Potter","","V4","Pathogen","Bacterial blight",1,1
 2015,"29-Jun","Columbia","","V4","Pathogen","Cercospora leaf blight",1,1
 2015,"29-Jun","Columbia","","V4","Pathogen","Septoria brown spot",1,1
 2015,"29-Jun","Northumberland","","V4","Pathogen","Septoria brown spot",2,1
@@ -252,7 +261,7 @@
 2015,"29-Jun","Mercer","","V4-V5","Pathogen","Septoria brown spot",1,1
 2015,"26-Jun","Franklin","","V2","Pathogen","Frogeye leaf spot",1,1
 2015,"29-Jun","Crawford","","V3-V4","Pathogen","Septoria brown spot",1,1
-2015,"29-Jun","Potter","","V4","Pathogen","Bacterial leaf wilt",1,1
+2015,"29-Jun","Potter","","V4","Pathogen","Bacterial blight",1,1
 2015,"29-Jun","Columbia","","V1","Pathogen","Cercospora leaf blight",1,1
 2015,"29-Jun","Columbia","","V1","Pathogen","Septoria brown spot",1,1
 2015,"29-Jun","Northumberland","","V4","Pathogen","Septoria brown spot",2,1
@@ -262,8 +271,9 @@
 2016,"01-Aug","Lancaster","Manheim","R3","Pathogen","Septoria brown spot",1,1
 2016,"01-Aug","Lancaster","Manheim","R3","Pathogen","Frogeye leaf spot",1,1
 2016,"01-Aug","Potter","","R1","Pathogen","Phyllosticta leaf spot",1,1
-2016,"01-Aug","Potter","","R1","Pathogen","Bacterial leaf blight",1,1
+2016,"01-Aug","Potter","","R1","Pathogen","Bacterial blight",1,1
 2016,"01-Aug","Potter","","R1","Pathogen","Frogeye leaf spot",1,1
+2016,"29-Jul","York","","R2-R3","Pathogen","Bacterial blight",2,1
 2015,"24-Aug","Columbia","","R5","Pathogen","Frogeye leaf spot",3,1
 2015,"24-Aug","Columbia","","R5","Pathogen","Septoria brown spot",1,1
 2015,"24-Aug","Columbia","","R5","Pathogen","Cercospora leaf blight",1,1
@@ -273,7 +283,7 @@
 2015,"14-Aug","York","","R5","Pathogen","Downy mildew",1,1
 2014,"09-Sept","Crawford","","R6","Pathogen","Septoria brown spot",1,1
 2014,"09-Sept","Crawford","","R6","Pathogen","Brown stem rot",1,1
-2014,"09-Sept","Crawford","","R6","Pathogen","White mould",1,1
+2014,"09-Sept","Crawford","","R6","Pathogen","White mold",1,1
 2014,"08-Sept","Columbia","","R6","Pathogen","Septoria brown spot",1,1
 2014,"08-Sept","Columbia","","R6","Pathogen","Downy mildew",1,1
 2014,"08-Sept","Northumberland","","R6","Pathogen","Septoria brown spot",1,1
@@ -284,7 +294,7 @@
 2014,"08-Sept","Mercer","","R6","Pathogen","Downy mildew",1,1
 2014,"08-Sept","Armstrong","","R6","Pathogen","Septoria brown spot",1,1
 2014,"08-Sept","Armstrong","","R6","Pathogen","Downy mildew",1,1
-2014,"08-Sept","Armstrong","","R6","Pathogen","White mould",1,1
+2014,"08-Sept","Armstrong","","R6","Pathogen","White mold",1,1
 2014,"6 Septemebr","Bradford","","R6","Pathogen","Septoria brown spot",3,1
 2014,"6 Septemebr","Bradford","","R6","Pathogen","Downy mildew",1,1
 2014,"05-Sept","Potter","","R4","Pathogen","Downy mildew",1,1
@@ -318,26 +328,30 @@
 2014,"12-Sept","Potter","","R5","Pathogen","Downy mildew",2,1
 2014,"12-Sept","Mckean","","R5","Pathogen","Septoria brown spot",2,NA
 2014,"12-Sept","Elk","","R5","Pathogen","Downy mildew",1,1
+2024,"08-Jul","Potter","Ulysses","V5-V7","Pathogen","Septoria brown spot",1,1
 2024,"08-Jul","Columbia","Mainville","R3","Pathogen","Septoria brown spot",1,1
 2019,"09-Jul","Union","","R2","Pathogen","Septoria brown spot",1,1
 2019,"08-Jul","Crawford","","V8","Pathogen","Septoria brown spot",1,1
 2019,"07-Jul","Potter","","V1-V3","Pathogen","Septoria brown spot",1,1
 2019,"03-Jul","Centre","","V2","Pathogen","Downy mildew",1,1
-2019,"02-Jul","York","","R2","Pathogen","Soybean bacterial pustule",1,1
+2019,"02-Jul","York","","R2","Pathogen","Bacterial pustule",1,1
 2020,"08-Sept","Bulter","North woshington","R6","Pathogen","Septoria brown spot",2,1
 2020,"08-Sept","Beaver","Fombell","R6","Pathogen","Cercospora leaf blight",1,1
 2020,"08-Sept","Beaver","Fombell","R6","Pathogen","Frogeye leaf spot",2,1
 2020,"07-Sept","Crawford","Woodcock","R6","Pathogen","Frogeye leaf spot",1,1
 2020,"07-Sept","Crawford","Woodcock","R6","Pathogen","Septoria brown spot",1,1
+2020,"04-Sept","Perry","","R6","Pathogen","Cercospora leaf blight",1,1
+2021,"05-Jun","Blair","Williamsburg","V1","Pathogen","Septoria brown spot",1,1
 2021,"04-Jun","Northumberland","Riverside","V2","Pathogen","Cercospora leaf blight",1,1
+2020,"06-Jul","Crawford","Woodcock","V5-V7","Pathogen","Septoria brown spot",1,1
 2020,"06-Jul","Blair","Sinking Valley","V6","Pathogen","Septoria brown spot",1,1
+2020,"04-Jul","Montgomery","","V9","Pathogen","Septoria brown spot",1,1
 2018,"07-Aug","Bedford","","","Pathogen","Septoria brown spot",3,1
 2018,"06-Aug","Cambria","","V4","Pathogen","Septoria brown spot",3,1
 2018,"06-Aug","Crawford","","R2-R3","Pathogen","Septoria brown spot",1,1
 2018,"06-Aug","Mckean","","R2","Pathogen","Septoria brown spot",4,1
 2018,"06-Aug","Northumberland","","R5","Pathogen","Soybean vein necrosis",1,1
 2018,"06-Aug","Union","","R2","Pathogen","Downy mildew",1,1
-2018,"03-Aug","Centre","","R2","Pathogen","Brown marmorated stink bug",1,1
 2018,"06-Aug","Centre","","R2","Pathogen","Downy mildew",3,1
 2018,"06-Aug","Centre","","R2","Pathogen","Frogeye leaf spot",1,1
 2021,"06-Jul","Beaver","Fombell","V5","Pathogen","Cercospora leaf blight",2,1
@@ -346,9 +360,10 @@
 2021,"05-Jul","Bedford","Portage","R1","Pathogen","Septoria brown spot",1,1
 2021,"05-Jul","Blair","Williamsburg","R1","Pathogen","Septoria brown spot",1,1
 2019,"06-Aug","Montgomery","","R3","Pathogen","Septoria brown spot",2,1
+2019,"05-Aug","Mercer","","R3","Pathogen","Septoria brown spot",1,1
 2019,"05-Aug","Mercer","","R3","Pathogen","Frogeye leaf spot",1,1
 2019,"05-Aug","Bradford","","R3","Pathogen","Frogeye leaf spot",1,1
-2019,"05-Aug","Adams","","R3","Pathogen","Soybean brown spot",1,1
+2019,"05-Aug","Adams","","R3","Pathogen","Septoria brown spot",1,1
 2019,"05-Aug","Bedford","Cessna","R5","Pathogen","Downy mildew",1,1
 2019,"05-Aug","Bedford","Cessna","R5","Pathogen","Septoria brown spot",1,1
 2019,"05-Aug","Bedford","Cessna","R5","Pathogen","Frogeye leaf spot",1,1
@@ -363,7 +378,6 @@
 2019,"04-Aug","Potter","Ellisburg","R1","Pathogen","Frogeye leaf spot",1,1
 2019,"04-Aug","Potter","Ellisburg","R1","Pathogen","Septoria brown spot",1,1
 2019,"04-Aug","Mckean","","R1","Pathogen","Septoria brown spot",1,1
-2019,"02-Aug","Northumberland","","R6","Pathogen","Green cloverworm",1,1
 2019,"02-Aug","Northumberland","","R6","Pathogen","Frogeye leaf spot",1,1
 2019,"02-Aug","Northumberland","","R6","Pathogen","Septoria brown spot",1,1
 2019,"02-Aug","Union","","R5","Pathogen","Septoria brown spot",1,1
@@ -371,25 +385,25 @@
 2018,"04-Sept","Crawford","","R6","Pathogen","Septoria brown spot",1,1
 2018,"04-Sept","Union","","R5","Pathogen","Downy mildew",1,1
 2018,"04-Sept","Union","","R5","Pathogen","Septoria brown spot",1,1
-2018,"04-Sept","Northumberland","","R7","Pathogen","Soybean mosaic virus",1,1
+2018,"04-Sept","Northumberland","","R7","Pathogen","Soybean mosaic",1,1
 2018,"04-Sept","Northumberland","","R7","Pathogen","Frogeye leaf spot",1,1
-2018,"2 Septemebr","Potter","","R4-R5","Pathogen","White mould",1,1
+2018,"2 Septemebr","Potter","","R4-R5","Pathogen","White mold",1,1
 2018,"2 Septemebr","Potter","","R4-R5","Pathogen","Frogeye leaf spot",1,1
 2018,"2 Septemebr","Potter","","R4-R5","Pathogen","Septoria brown spot",1,1
 2018,"2 Septemebr","Potter","","R4-R5","Pathogen","Downy mildew",1,1
 2018,"31-Aug","Blair","","R6","Pathogen","Septoria brown spot",1,1
 2018,"31-Aug","Blair","","R6","Pathogen","Frogeye leaf spot",1,1
-2018,"31-Aug","Blair","","R6","Pathogen","White mould",1,1
+2018,"31-Aug","Blair","","R6","Pathogen","White mold",1,1
 2018,"31-Aug","Blair","","R6","Pathogen","Downy mildew",1,1
 2018,"30-Aug","Cambria","","R6","Pathogen","Septoria brown spot",1,1
 2018,"30-Aug","Cambria","","R6","Pathogen","Frogeye leaf spot",1,1
 2018,"30-Aug","Cambria","","R6","Pathogen","Frogeye leaf spot",1,1
-2018,"30-Aug","Cambria","","R6","Pathogen","Soybean sudden death sundrome",1,1
+2018,"30-Aug","Cambria","","R6","Pathogen","Sudden death syndrome",1,1
 2018,"30-Aug","Bradford","","R5","Pathogen","Septoria brown spot",1,1
 2018,"30-Aug","Bradford","","R5","Pathogen","Frogeye leaf spot",1,1
-2018,"30-Aug","Bradford","","R5","Pathogen","White mould",1,1
-2018,"29-Aug","Butler","","R5","Pathogen","Soybean sudden death sundrome",1,1
-2018,"29-Aug","Butler","","R5","Pathogen","Alfalafa mosaic virus",1,1
+2018,"30-Aug","Bradford","","R5","Pathogen","White mold",1,1
+2018,"29-Aug","Butler","","R5","Pathogen","Sudden death syndrome",1,1
+2018,"29-Aug","Butler","","R5","Pathogen","Alfalfa mosaic virus",1,1
 2018,"29-Aug","Butler","","R5","Pathogen","Septoria brown spot",1,1
 2018,"31-Jul","Lancaster","","R4","Pathogen","Septoria brown spot",1,1
 2018,"31-Jul","Westmoreland","","R3","Pathogen","Septoria brown spot",1,1
@@ -401,16 +415,15 @@
 2018,"28-Jul","Butler","","R1-R3","Pathogen","Septoria brown spot",1,1
 2018,"26-Jul","Centre","","R1","Pathogen","Downy mildew",4,1
 2018,"26-Jul","Centre","","R1","Pathogen","Frogeye leaf spot",1,1
-2018,"26-Jul","Centre","","R1","Pathogen","Alfalafa mosaic virus",4,1
+2018,"26-Jul","Centre","","R1","Pathogen","Alfalfa mosaic virus",4,1
 2021,"30-Aug","Franklin","Mercerburg","R6","Pathogen","Frogeye leaf spot",1,1
 2021,"30-Aug","Somerset","Berlin","R6","Pathogen","Downy mildew",1,1
 2021,"30-Aug","Somerset","Berlin","R6","Pathogen","Frogeye leaf spot",1,1
-2021,"29-Aug","Cameron","Emporium","R6","Pathogen","Soybean leafminer",1,1
 2021,"29-Aug","Cameron","Emporium","R6","Pathogen","Septoria brown spot",2,1
-2021,"27-Aug","Centre","Bellefonte","R6","Pathogen","White mould",2,1
+2021,"27-Aug","Centre","Bellefonte","R6","Pathogen","White mold",2,1
 2021,"27-Aug","Centre","Bellefonte","R6","Pathogen","Septoria brown spot",1,1
 2021,"27-Aug","Centre","Bellefonte","R6","Pathogen","Downy mildew",1,1
-2021,"27-Aug","Centre","Bellefonte","R6","Pathogen","Soybean sudden death sundrome",5,1
+2021,"27-Aug","Centre","Bellefonte","R6","Pathogen","Sudden death syndrome",5,1
 2021,"23-Aug","Cambria","Portage","R6","Pathogen","Bacterial blight",1,1
 2021,"23-Aug","Cambria","Portage","R6","Pathogen","Frogeye leaf spot",1,1
 2021,"23-Aug","Cambria","Portage","R6","Pathogen","Septoria brown spot",1,1
@@ -430,18 +443,19 @@
 2019,"29-Jul","Crawford","","R3","Pathogen","Septoria brown spot",1,1
 2019,"29-Jul","Bedford","","R5","Pathogen","Downy mildew",1,1
 2019,"29-Jul","Bedford","","R5","Pathogen","Septoria brown spot",1,1
-2019,"29-Jul","Cambria","Loretto","R4","Pathogen","Soybean brown spot",1,1
+2019,"29-Jul","Cambria","Loretto","R4","Pathogen","Downy mildew",1,1
+2019,"29-Jul","Cambria","Loretto","R4","Pathogen","Septoria brown spot",1,1
 2019,"29-Jul","Cambria","Loretto","R4","Pathogen","Frogeye leaf spot",1,1
 2019,"22-Jul","Blair","Williamsburg","R5","Pathogen","Downy mildew",1,1
 2019,"22-Jul","Blair","Williamsburg","R5","Pathogen","Frogeye leaf spot",1,1
 2019,"30-Jul","Montgomery","","R2","Pathogen","Septoria brown spot",2,1
 2019,"29-Jul","Northumberland","","R5","Pathogen","Septoria brown spot",1,1
 2019,"19-Jul","Union","","R4","Pathogen","Septoria brown spot",1,1
-2019,"29-Jul","Mercer","","R2","Pathogen","Soybean brown spot",1,1
+2019,"29-Jul","Mercer","","R2","Pathogen","Septoria brown spot",1,1
 2019,"29-Jul","Mercer","","R2","Pathogen","Frogeye leaf spot",1,1
 2019,"23-Jul","Centre","","R2","Pathogen","Downy mildew",1,1
 2019,"23-Jul","Centre","","R2","Pathogen","Frogeye leaf spot",1,1
-2019,"23-Jul","Centre","","R2","Pathogen","Soybean brown spot",1,1
+2019,"23-Jul","Centre","","R2","Pathogen","Septoria brown spot",1,1
 2022,"29-Aug","Adams","Littlestown","R6","Pathogen","Sudden death syndrome",5,1
 2022,"27-Aug","Potter","Ulysses","R5","Pathogen","Frogeye leaf spot",1,1
 2022,"26-Aug","Chester","Pottstown","R6","Pathogen","Sudden death syndrome",1,1
@@ -485,32 +499,34 @@
 2021,"29-Jun","Montgomery","Souderton","V5","Pathogen","Septoria brown spot",1,1
 2021,"28-Jun","Beaver","Fombell","V3","Pathogen","Cercospora leaf blight",2,1
 2021,"28-Jun","Butler","Cabot","V3","Pathogen","Septoria brown spot",1,1
+2021,"28-Jun","Centre","Bellefonte","V3","Pathogen","Septoria brown spot",1,1
 2021,"28-Jun","Northumberland","Riverside","R2","Pathogen","Septoria brown spot",1,1
 2021,"28-Jun","Northumberland","Riverside","R2","Pathogen","Soybean vein necrosis",1,1
 2023,"10-Sept","Cameron","Emporium","R6","Pathogen","Septoria brown spot",1,1
-2023,"10-Sept","Potter","Ulysses","R6","Pathogen","White mould",5,1
-2023,"10-Sept","Potter","Genesee","R6","Pathogen","White mould",1,1
-2023,"08-Sept","Centre","Bellefonte","R6","Pathogen","White mould",1,1
+2023,"10-Sept","Potter","Ulysses","R6","Pathogen","White mold",5,1
+2023,"10-Sept","Potter","Genesee","R6","Pathogen","White mold",1,1
+2023,"08-Sept","Centre","Bellefonte","R6","Pathogen","White mold",1,1
 2023,"08-Sept","Centre","Bellefonte","R6","Pathogen","Downy mildew",1,1
 2023,"08-Sept","Centre","Bellefonte","R6","Pathogen","Septoria brown spot",1,1
 2023,"08-Sept","Centre","Bellefonte","R6","Pathogen","Sudden death syndrome",2,1
+2023,"05-Sept","Cameron","Emporium","R5","Pathogen","Septoria brown spot",1,1
 2023,"03-Sept","Cameron","Emporium","R5","Pathogen","Septoria brown spot",1,1
-2023,"03-Sept","Potter","Genesee","R5","Pathogen","White mould",1,1
-2023,"03-Sept","Potter","Ulysses","R5","Pathogen","White mould",2,1
+2023,"03-Sept","Potter","Genesee","R5","Pathogen","White mold",1,1
+2023,"03-Sept","Potter","Ulysses","R5","Pathogen","White mold",2,1
 2023,"29-Aug","Lancaster","Manheim","R6","Pathogen","Septoria brown spot",2,1
-2023,"28-Aug","Centre","Bellefonte","R6","Pathogen","White mould",3,1
+2023,"28-Aug","Centre","Bellefonte","R6","Pathogen","White mold",3,1
 2023,"28-Aug","Centre","Bellefonte","R6","Pathogen","Downy mildew",1,1
 2023,"28-Aug","Centre","Bellefonte","R6","Pathogen","Septoria brown spot",2,1
 2023,"28-Aug","Centre","Bellefonte","R6","Pathogen","Sudden death syndrome",3,1
 2023,"27-Aug","Cameron","Emporium","R4","Pathogen","Septoria brown spot",2,1
-2023,"21-Aug","Centre","Bellefonte","R5","Pathogen","White mould",3,1
+2023,"21-Aug","Centre","Bellefonte","R5","Pathogen","White mold",3,1
 2023,"21-Aug","Centre","Bellefonte","R5","Pathogen","Downy mildew",1,1
 2023,"21-Aug","Centre","Bellefonte","R5","Pathogen","Septoria brown spot",2,1
 2023,"21-Aug","Centre","Bellefonte","R5","Pathogen","Sudden death syndrome",3,1
-2023,"21-Aug","Fayette","Georges","R5","Pathogen","White mould",1,1
+2023,"21-Aug","Fayette","Georges","R5","Pathogen","White mold",1,1
 2023,"21-Aug","Fayette","Georges","R5","Pathogen","Downy mildew",2,1
 2023,"21-Aug","Fayette","Georges","R5","Pathogen","Soybean vein necrosis",1,1
-2023,"15-Aug","Lebanon","Cornwall","R6","Pathogen","White mould",1,1
+2023,"15-Aug","Lebanon","Cornwall","R6","Pathogen","White mold",1,1
 2023,"15-Aug","Lebanon","Cornwall","R6","Pathogen","Frogeye leaf spot",2,1
 2023,"15-Aug","Lebanon","Cornwall","R6","Pathogen","Sudden death syndrome",1,1
 2023,"15-Aug","Lebanon","Cornwall","R6","Pathogen","Soybean vein necrosis",1,1
@@ -518,8 +534,8 @@
 2023,"14-Aug","Montgomery","Souderton","R5","Pathogen","Septoria brown spot",1,1
 2023,"14-Aug","Montgomery","Souderton","R5","Pathogen","Downy mildew",2,1
 2023,"13-Aug","Cameron","Emporium","R2","Pathogen","Septoria brown spot",1,1
-2023,"13-Aug","Potter","Ulysses","R2-R3","Pathogen","Brown marmorated stink bug",1,1
 2023,"12-Aug","Mercer","Volant","R4","Pathogen","Downy mildew",1,1
+2022,"28-Jun","Potter","Ulysses","V4","Pathogen","Septoria brown spot",1,1
 2022,"25-Jun","Lancaster","Manheim","R1","Pathogen","Septoria brown spot",1,1
 2018,"28-Aug","Crawford","","R4-R5","Pathogen","Septoria brown spot",1,1
 2018,"28-Aug","Lancaster","","R5","Pathogen","Sudden death syndrome",1.5,1
@@ -538,12 +554,14 @@
 2018,"22-Aug","Mercer","","R6","Pathogen","Frogeye leaf spot",1,1
 2018,"22-Aug","Mercer","","R6","Pathogen","Alfalfa mosaic virus",1,1
 2018,"22-Aug","Mercer","","R6","Pathogen","Sudden death syndrome",1,1
-2018,"22-Aug","Mercer","","R6","Pathogen","Bacterial leaf blight",1,1
+2018,"22-Aug","Mercer","","R6","Pathogen","Bacterial blight",1,1
 2022,"29 Septemeber","Berks","Brownsville","R7","Pathogen","Frogeye leaf spot",1,1
 2022,"30 Septemeber","Berks","Brownsville","R7","Pathogen","Septoria brown spot",1,1
 2021,"27-Jul","Dauphin","","R4","Pathogen","Downy mildew",1,1
 2021,"27-Jul","Dauphin","","R4","Pathogen","Frogeye leaf spot",1,1
 2021,"27-Jul","Perry","","R3","Pathogen","Downy mildew",1,1
+2021,"27-Jul","Lancaster","between Manheim and Lititz","R3","Pathogen","Septoria brown spot",1,1
+2021,"27-Jul","Lancaster","between Manheim and Lititz","R3","Pathogen","Sudden death syndrome",1,1
 2021,"27-Jul","Somerset","Berlin","R2","Pathogen","Downy mildew",1,1
 2021,"27-Jul","Somerset","Berlin","R2","Pathogen","Frogeye leaf spot",1,1
 2021,"26-Jul","Cambria","Portage","R3","Pathogen","Septoria brown spot",1,1
@@ -565,7 +583,7 @@
 2019,"27-Aug","Dauphin","","R6","Pathogen","Septoria brown spot",1,1
 2019,"26-Aug","Bradford","","R6","Pathogen","Frogeye leaf spot",1,1
 2019,"26-Aug","Franklin","","R6","Pathogen","Frogeye leaf spot",3,1
-2019,"26-Aug","Lancaster","","R6","Pathogen","White mould",1.5,1
+2019,"26-Aug","Lancaster","","R6","Pathogen","White mold",1.5,1
 2019,"26-Aug","Potter","Ellisburg","R5","Pathogen","Frogeye leaf spot",2,1
 2019,"26-Aug","Potter","Ellisburg","R5","Pathogen","Septoria brown spot",1,1
 2019,"25-Aug","Potter","Geleton","R6","Pathogen","Frogeye leaf spot",2,1
@@ -573,6 +591,7 @@
 2019,"25-Aug","Mckean","","R4","Pathogen","Septoria brown spot",1,1
 2019,"23-Aug","Bedford","Cessna","R6","Pathogen","Septoria brown spot",1,1
 2019,"23-Aug","Bedford","Cessna","R6","Pathogen","Frogeye leaf spot",1,1
+2018,"25-Jun","Bucks","","R1","Pathogen","Bacterial pustule",1,1
 2018,"25-Jun","Crawford","","V3","Pathogen","Septoria brown spot",1,1
 2018,"25-Jun","Westmoreland","","V3","Pathogen","Septoria brown spot",2,1
 2018,"25-Jun","Lebanon","","V2","Pathogen","Septoria brown spot",1,1
@@ -586,8 +605,12 @@
 2022,"25-Jul","Butler","Saxonburg","R2","Pathogen","Cercospora leaf blight",1,1
 2022,"21-Jul","Chester","S. Pottstown","R4","Pathogen","Septoria brown spot",1,1
 2022,"21-Jul","Chester","Parkesburg","R4","Pathogen","Septoria brown spot",1,1
+2019,"24-Jun","Beaver","","V3","Pathogen","Septoria brown spot",1,1
 2019,"24-Jun","Mercer","","V3","Pathogen","Frogeye leaf spot",1,1
-2019,"21-Jun","Bedford","Cessna","","Pathogen","Phytophtora root and stem rot",1,1
+2019,"24-Jun","Crawford","","V2","Pathogen","Septoria brown spot",1,1
+2019,"24-Jun","Adams","","V2","Pathogen","Frogeye leaf spot",1,1
+2019,"21-Jun","Lancaster","","R1","Pathogen","Septoria brown spot",2,1
+2019,"21-Jun","Bedford","Cessna","","Pathogen","Phytophthora root and stem rot",1,1
 2023,"25-Jul","Montgomery","Souderton","R3","Pathogen","Septoria brown spot",1,1
 2023,"24-Jul","Perry","Blain","V3","Pathogen","Downy mildew",1,1
 2023,"24-Jul","Dauphin","Fisherville","V3","Pathogen","Downy mildew",1,1
@@ -602,11 +625,11 @@
 2020,"25-Aug","York","Hellam","R6","Pathogen","Septoria brown spot",1,1
 2020,"25-Aug","Perry","","R6","Pathogen","Phyllosticta leaf spot",3,1
 2020,"25-Aug","Montgomery","","R5-R6","Pathogen","Septoria brown spot",1,1
-2020,"25-Aug","Montgomery","","R5-R6","Pathogen","Bacterial pustule",1,1
+2020,"25-Aug","Montgomery","","R5-R6","Pathogen","Soybean bacterial pustule",1,1
 2020,"25-Aug","Montgomery","","R5-R6","Pathogen","Downy mildew",1,1
 2020,"25-Aug","Blair","Sinking Valley","R6","Pathogen","Septoria brown spot",1,1
-2020,"25-Aug","Blair","Sinking Valley","R6","Pathogen","Bacterial pustule",1,1
-2020,"25-Aug","Blair","Sinking Valley","R6","Pathogen","Anthracnose",1,1
+2020,"25-Aug","Blair","Sinking Valley","R6","Pathogen","Soybean bacterial pustule",1,1
+2020,"25-Aug","Blair","Sinking Valley","R6","Pathogen","Anthracnose stem blight",1,1
 2020,"25-Aug","Bedford","Cessna","R6","Pathogen","Septoria brown spot",1,1
 2020,"25-Aug","Bedford","Cessna","R6","Pathogen","Frogeye leaf spot",1,1
 2020,"25-Aug","Bedford","Cessna","R6","Pathogen","Bacterial blight",1,1
@@ -620,6 +643,7 @@
 2020,"24-Aug","Beaver","Fombell","R4","Pathogen","Frogeye leaf spot",3,1
 2020,"24-Aug","Schuylkill","","R5-R6","Pathogen","Frogeye leaf spot",1,1
 2020,"24-Aug","Schuylkill","","R5-R6","Pathogen","Septoria brown spot",1,1
+2020,"24-Aug","Bradford","","R5","Pathogen","Septoria brown spot",1,1
 2020,"24-Aug","Potter","Ulysses","R6","Pathogen","Frogeye leaf spot",1,1
 2020,"24-Aug","Potter","Germania","R6","Pathogen","Frogeye leaf spot",1,1
 2020,"24-Aug","Franklin","Lamsters","R6","Pathogen","Septoria brown spot",1,1
@@ -642,12 +666,12 @@
 2021,"23-Aug","Schuylkill","Berlin","R5","Pathogen","Septoria brown spot",1,1
 2021,"23-Aug","Somerset","Berlin","R5","Pathogen","Downy mildew",1,1
 2021,"23-Aug","Somerset","Berlin","R5","Pathogen","Frogeye leaf spot",1,1
-2021,"22-Aug","Potter","Ulysses","R6","Pathogen","White mould",1,1
-2021,"22-Aug","Potter","Genesee","R6","Pathogen","White mould",1,2
+2021,"22-Aug","Potter","Ulysses","R6","Pathogen","White mold",1,1
+2021,"22-Aug","Potter","Genesee","R6","Pathogen","White mold",1,2
 2021,"22-Aug","Cameron","Emporium","R6","Pathogen","Septoria brown spot",1,1
 2021,"20-Aug","Centre","Bellefonte","R5","Pathogen","Septoria brown spot",1,1
 2021,"20-Aug","Centre","Bellefonte","R5","Pathogen","Downy mildew",1,1
-2021,"20-Aug","Centre","Bellefonte","R5","Pathogen","White mould",1,1
+2021,"20-Aug","Centre","Bellefonte","R5","Pathogen","White mold",1,1
 2021,"20-Aug","Centre","Bellefonte","R5","Pathogen","Sudden death syndrome",1,1
 2021,"17-Aug","Bradford","Sheshequin","R5","Pathogen","Frogeye leaf spot",1,1
 2020,"23-Jun","York","Stewartstown","V3","Pathogen","Septoria brown spot",1,1
@@ -662,24 +686,23 @@
 2022,"19-Aug","Chester","South Pottstown","R4","Pathogen","Septoria brown spot",1,1
 2022,"19-Aug","Chester","South Pottstown","R4","Pathogen","Sudden death syndrome",1,1
 2022,"19-Aug","Chester","Parkesburg","R4","Pathogen","Septoria brown spot",1,1
-2021,"21-Jun","Beaver","Fombell","V3","Pathogen","Bacterial leaf blight",2,1
+2021,"21-Jun","Beaver","Fombell","V3","Pathogen","Bacterial blight",2,1
 2021,"21-Jun","Butler","Cabot","V3","Pathogen","Septoria brown spot",1,1
 2021,"21-Jun","Cambria","Portage","V3","Pathogen","Septoria brown spot",1,1
 2021,"21-Jun","Northumberland","Riverside","V4","Pathogen","Cercospora leaf blight",1,1
 2021,"21-Jun","Northumberland","Riverside","V4","Pathogen","Soybean vein necrosis",1,1
 2021,"20-Jun","Cameron","Emporium","V1","Pathogen","Septoria brown spot",1,1
-2023,"22-Aug","Centre","Bellefonte","R5","Pathogen","White mould",3,1
+2023,"22-Aug","Centre","Bellefonte","R5","Pathogen","White mold",3,1
 2023,"22-Aug","Centre","Bellefonte","R5","Pathogen","Downy mildew",1,1
 2023,"22-Aug","Centre","Bellefonte","R5","Pathogen","Septoria brown spot",2,1
 2023,"22-Aug","Centre","Bellefonte","R5","Pathogen","Sudden death syndrome",3,1
-2023,"22-Aug","Lebanon","Cornwall","R6","Pathogen","White mould",1,1
+2023,"22-Aug","Lebanon","Cornwall","R6","Pathogen","White mold",1,1
 2023,"22-Aug","Lebanon","Cornwall","R6","Pathogen","Frogeye leaf spot",2,1
 2023,"22-Aug","Lebanon","Cornwall","R6","Pathogen","Sudden death syndrome",1,1
 2023,"22-Aug","Lebanon","Cornwall","R6","Pathogen","Soybean vein necrosis",1,1
 2023,"15-Aug","Lancaster","Manheim","R5","Pathogen","Septoria brown spot",2,1
 2023,"14-Aug","Montgomery","Souderton","R5","Pathogen","Septoria brown spot",1,1
 2023,"14-Aug","Montgomery","Souderton","R5","Pathogen","Downy mildew",2,1
-2023,"13-Aug","Cameron","Emporium","R2","Pathogen","Brown marmorated stink bug",1,1
 2023,"13-Aug","Cameron","Emporium","R2","Pathogen","Septoria brown spot",1,1
 2023,"13-Aug","Potter","Ulysses","R2-R3","Pathogen","Septoria brown spot",1,1
 2023,"13-Aug","Potter","Genesee","R3","Pathogen","Septoria brown spot",1,1
@@ -697,11 +720,11 @@
 2018,"21-Aug","Blair","","V5","Pathogen","Septoria brown spot",1,1
 2018,"21-Aug","Blair","","V5","Pathogen","Frogeye leaf spot",1,1
 2018,"21-Aug","Blair","","V5","Pathogen","Downy mildew",1,1
-2018,"21-Aug","Blair","","V5","Pathogen","White mould",1,1
+2018,"21-Aug","Blair","","V5","Pathogen","White mold",1,1
 2018,"21-Aug","Armstrong","","R6","Pathogen","Septoria brown spot",1,1
-2018,"21-Aug","Armstrong","","R6","Pathogen","Phyllostica leaf spot",1,1
+2018,"21-Aug","Armstrong","","R6","Pathogen","Phyllosticta leaf spot",1,1
 2018,"21-Aug","Lancaster","","R4-R7","Pathogen","Septoria brown spot",1,1
-2018,"21-Aug","Lancaster","","R4-R8","Pathogen","Bacterial leaf blight",1,1
+2018,"21-Aug","Lancaster","","R4-R8","Pathogen","Bacterial blight",1,1
 2018,"20-Aug","Crawford","","R3","Pathogen","Septoria brown spot",1,1
 2018,"20-Aug","Cambria","","R5","Pathogen","Septoria brown spot",1,1
 2018,"20-Aug","Cambria","","R5","Pathogen","Frogeye leaf spot",1,1
@@ -710,7 +733,7 @@
 2018,"20-Aug","Bedford","","R6","Pathogen","Septoria brown spot",1,1
 2018,"20-Aug","Bedford","","R6","Pathogen","Downy mildew",1,1
 2018,"20-Aug","Bradford","","R5","Pathogen","Septoria brown spot",1,1
-2018,"20-Aug","Butler","","R5","Pathogen","Soybean purple seed stain",1,1
+2018,"20-Aug","Butler","","R5","Pathogen","Purple seed stain",1,1
 2018,"20-Aug","Northumberland","","R6","Pathogen","Soybean vein necrosis",1,1
 2018,"20-Aug","Perry","","R5","Pathogen","Frogeye leaf spot",3,1
 2018,"20-Aug","Union","","R3","Pathogen","Downy mildew",1,1
@@ -722,7 +745,7 @@
 2018,"14-Aug","Mercer","","R5","Pathogen","Septoria brown spot",1,1
 2018,"14-Aug","Mercer","","R5","Pathogen","Frogeye leaf spot",1,1
 2018,"14-Aug","Mercer","","R5","Pathogen","Alfalfa mosaic virus",1,1
-2022,"20-Sept","Centre","between state college and Bellefonte","R7","Pathogen","White mould",3,1
+2022,"20-Sept","Centre","between state college and Bellefonte","R7","Pathogen","White mold",3,1
 2022,"20-Sept","Centre","between state college and Bellefonte","R7","Pathogen","Stem canker",1,1
 2022,"19-Sept","Somerset","Somerset","R7","Pathogen","Frogeye leaf spot",1,1
 2022,"19-Sept","Somerset","Somerset","R7","Pathogen","Septoria brown spot",1,1
@@ -740,9 +763,10 @@
 2024,"12-Aug","Potter","Gold","R2-R4","Pathogen","Septoria brown spot",1,1
 2019,"12-Aug","Montgomery","","R5","Pathogen","Frogeye leaf spot",1,1
 2019,"12-Aug","Montgomery","","R5","Pathogen","Septoria brown spot",1,1
+2019,"20-Aug","Crawford","","R5","Pathogen","Frogeye leaf spot",1,1
 2019,"20-Aug","Crawford","","R5","Pathogen","Septoria brown spot",1,1
 2019,"20-Aug","York","","R5","Pathogen","Frogeye leaf spot",1,1
-2019,"20-Aug","York","","R5","Pathogen","Soybean brown spot",1,1
+2019,"20-Aug","York","","R5","Pathogen","Septoria brown spot",1,1
 2019,"19-Aug","Bedford","Cessna","R6","Pathogen","Septoria brown spot",1,1
 2019,"19-Aug","Bedford","Cessna","R6","Pathogen","Frogeye leaf spot",1,1
 2019,"19-Aug","Cambria","Loretto","R6","Pathogen","Septoria brown spot",1,1
@@ -788,29 +812,29 @@
 2015,"02-Aug","Lancaster","","R4","Pathogen","Septoria brown spot",1,1
 2015,"02-Aug","Lancaster","","R3","Pathogen","Septoria brown spot",1,2
 2015,"31-Jul","York","","R4","Pathogen","Downy mildew",1,1
-2016,"12-Jul","Columbia","","R1 ","Pathogen","Bean pod mottle virus",2,1
+2016,"12-Jul","Columbia","","R1 ","Pathogen","Bean pod mottle",2,1
 2016,"11-Jul","Schuylkill","","V6-R1","Pathogen","Septoria brown spot",1,1
-2016,"11-Jul","Potter","","V4","Pathogen","Septoria leaf spot",1,1
-2016,"11-Jul","Mckean","","V4","Pathogen","Bacterial leaf wilt",1,1
-2016,"11-Jul","Mckean","","V4","Pathogen","Septoria leaf spot",1,1
+2016,"11-Jul","Potter","","V4","Pathogen","Septoria brown spot",1,1
+2016,"11-Jul","Mckean","","V4","Pathogen","Bacterial blight",1,1
+2016,"11-Jul","Mckean","","V4","Pathogen","Septoria brown spot",1,1
 2016,"11-Jul","Mckean","","V4","Pathogen","Frogeye leaf spot",1,1
-2016,"20-Jun","Mckean","","V2","Pathogen","Septoria leaf spot",1,1
+2016,"20-Jun","Mckean","","V2","Pathogen","Septoria brown spot",1,1
 2016,"25-Jul","Potter","","V5","Pathogen","Phyllosticta leaf spot",1,1
 2016,"25-Jul","Potter","","V5","Pathogen","Septoria brown spot",1,1
 2016,"25-Jul","Potter","","V5","Pathogen","Downy mildew",1,1
-2016,"25-Jul","Mckean","","R1  ","Pathogen","Bacterial leaf wilt",1,1
+2016,"25-Jul","Mckean","","R1  ","Pathogen","Bacterial blight",1,1
 2016,"25-Jul","Mckean","","R1  ","Pathogen","Septoria brown spot",1,1
 2016,"25-Jul","Elk","","V5","Pathogen","Septoria brown spot",1,1
 2016,"25-Jul","Elk","","V5","Pathogen","Frogeye leaf spot",1,1
 2016,"25-Jul","Elk","","V5","Pathogen","Phyllosticta leaf spot",1,1
 2016,"19-Jul","York","","R2","Pathogen","Bacterial blight",1,1
-2016,"04-Jul","Mckean","","V4","Pathogen","Bacterial leaf wilt",1,1
+2016,"04-Jul","Mckean","","V4","Pathogen","Bacterial blight",1,1
 2016,"04-Jul","Mckean","","V4","Pathogen","Septoria brown spot",1,1
 2016,"04-Jul","Mckean","","V4","Pathogen","Frogeye leaf spot",1,1
-2016,"12-Sept","Schuylkill","","R6-R7","Pathogen","Brown leaf spot",1,1
+2016,"12-Sept","Schuylkill","","R6-R7","Pathogen","Septoria brown spot",1,1
 2016,"12-Sept","Mercer","","R8","Pathogen","White mold",1,1
 2016,"12-Sept","Crawford","","R6","Pathogen","Septoria brown spot",1,1
-2016,"12-Sept","Crawford","","R6","Pathogen","Bacterial pustule",1,1
+2016,"12-Sept","Crawford","","R6","Pathogen","Soybean bacterial pustule",1,1
 2016,"29-Aug","Erie","","R6","Pathogen","White mold",2,1
 2016,"29-Aug","Erie","","R6","Pathogen","Septoria brown spot",1,1
 2016,"12-Sept","York","","R6","Pathogen","Stem canker",3,1
@@ -823,7 +847,7 @@
 2016,"06-Sept","Mercer","","R7","Pathogen","Bacterial blight",1,1
 2016,"06-Sept","Mercer","","R7","Pathogen","Brown stem rot",1,1
 2016,"05-Sept","Potter","","R6","Pathogen","Phyllosticta leaf spot",1,1
-2016,"05-Sept","Potter","","R6","Pathogen","Bacterial leaf wilt",1,1
+2016,"05-Sept","Potter","","R6","Pathogen","Bacterial blight",1,1
 2016,"05-Sept","Mckean","","R6","Pathogen","Frogeye leaf spot",1,1
 2016,"05-Sept","Mckean","","R6","Pathogen","Bacterial blight",1,1
 2016,"05-Sept","Mckean","","R6","Pathogen","Cercospora leaf blight",1,1
@@ -832,13 +856,14 @@
 2016,"01-Aug","Mercer","","R5-R6","Pathogen","Septoria brown spot",1,1
 2016,"01-Aug","Mercer","","R5-R6","Pathogen","Bacterial blight",1,1
 2016,"22-Aug","Mckean","","R4","Pathogen","Frogeye leaf spot",1,1
-2016,"22-Aug","Mckean","","R4","Pathogen","Bacterial leaf blight",1,1
+2016,"22-Aug","Mckean","","R4","Pathogen","Bacterial blight",1,1
 2016,"22-Aug","Potter","","R3","Pathogen","Bacterial blight",1,1
 2016,"19-Aug","York","","R5","Pathogen","Bacterial blight",2,1
 2016,"19-Aug","York","","R5","Pathogen","Frogeye leaf spot",1,1
 2016,"22-Aug","Columbia","","R6","Pathogen","Septoria brown spot",1,1
 2016,"22-Aug","Northumberland","","R6","Pathogen","Septoria brown spot",1,1
 2016,"30-Aug","Elk","","R5","Pathogen","Frogeye leaf spot",1,1
+2016,"30-Aug","Lebanon","","R5","Pathogen","Septoria brown spot",1,1
 2016,"29-Aug","Mercer","","R6","Pathogen","Septoria brown spot",1,1
 2016,"29-Aug","Mercer","","R6","Pathogen","Bacterial blight",1,1
 2016,"29-Aug","Mercer","","R6","Pathogen","Brown stem rot",1,1
@@ -862,14 +887,14 @@
 2017,"16-Jul","Elk","Kersey","V5","Pathogen","Frogeye leaf spot",1,1
 2017,"16-Jul","Jefferson","Brockway","V3","Pathogen","Frogeye leaf spot",1,1
 2017,"16-Jul","Jefferson","Brockway","V3","Pathogen","Septoria brown spot",1,1
-2017,"24-Jun","Elk","Kersey","V2","Pathogen","Bacterial leaf wilt",1,1
-2017,"22-Jun","York","Windsor","V3-V4","Pathogen","Anthracnose",1,1
+2017,"24-Jun","Elk","Kersey","V2","Pathogen","Bacterial blight",1,1
+2017,"22-Jun","York","Windsor","V3-V4","Pathogen","Anthracnose stem blight",1,1
 2017,"02-Aug","York","Stewartstown","R4","Pathogen","Septoria brown spot",1,1
 2017,"02-Aug","York","Stewartstown","R4","Pathogen","Frogeye leaf spot",1,1
 2017,"02-Aug","York","Stewartstown","R4","Pathogen","Downy mildew",1,1
 2017,"02-Aug","York","Stewartstown","R3","Pathogen","Downy mildew",1,1
 2017,"02-Aug","York","Windsor","R4-R5","Pathogen","Downy mildew",1,1
-2017,"23-Jul","Elk","Kersey","V5","Pathogen","Septoria leaf blight",1,1
+2017,"23-Jul","Elk","Kersey","V5","Pathogen","Septoria brown spot",1,1
 2017,"23-Jul","Jefferson","Brockway","V3","Pathogen","Frogeye leaf spot",1,1
 2024,"16-Sept","Bedford","New Paris","R7","Pathogen","Septoria brown spot",1,1
 2024,"16-Sept","Somerset","Stoneycreek","R7","Pathogen","Septoria brown spot",1,1
@@ -878,7 +903,7 @@
 2020,"31-Aug","Centre","","R6","Pathogen","Frogeye leaf spot",1,1
 2020,"31-Aug","Somerset","Berlin","R6","Pathogen","Frogeye leaf spot",1,1
 2020,"31-Aug","Montgomery","","R6","Pathogen","Septoria brown spot",1,1
-2020,"31-Aug","Montgomery","","R6","Pathogen","Bacterial pustule",1,1
+2020,"31-Aug","Montgomery","","R6","Pathogen","Soybean bacterial pustule",1,1
 2020,"31-Aug","Montgomery","","R6","Pathogen","Downy mildew",1,1
 2020,"31-Aug","Montgomery","","R6","Pathogen","Frogeye leaf spot",1,1
 2020,"24-Aug","Crawford","Woodcock","R5-R6","Pathogen","Frogeye leaf spot",1,1
@@ -900,13 +925,13 @@
 2023,"15-Aug","Lancaster","Manheim","R5","Pathogen","Septoria brown spot",2,1
 2023,"14-Aug","Centre","Bellefonte","R5","Pathogen","White mold",2,1
 2023,"14-Aug","Centre","Bellefonte","R5","Pathogen","Downy mildew",1,1
-2023,"14-Aug","Centre","Bellefonte","R5","Pathogen","Soybean sudden death syndrome",1,1
+2023,"14-Aug","Centre","Bellefonte","R5","Pathogen","Sudden death syndrome",1,1
 2023,"14-Aug","Centre","Bellefonte","R5","Pathogen","Septoria brown spot",1,1
 2023,"14-Aug","Montgomery","Souderton","R5","Pathogen","Septoria brown spot",1,1
 2023,"14-Aug","Montgomery","Souderton","R5","Pathogen","Downy mildew",2,1
 2023,"13-Aug","Cameron","Emporium","R2","Pathogen","Septoria brown spot",1,1
 2023,"12-Aug","Mercer","Volant","R4","Pathogen","Downy mildew",1,1
-2021,"14-Jun","Beaver","Fombell","V2","Pathogen","Bacterial leaf blight",2,1
+2021,"14-Jun","Beaver","Fombell","V2","Pathogen","Bacterial blight",2,1
 2021,"14-Jun","Blair","Williamsburg","V4","Pathogen","Phyllosticta leaf spot",1,1
 2020,"15-Sept","Franklin","Lemasters","R7","Pathogen","Cercospora leaf blight",1,1
 2020,"15-Sept","Perry","","R7","Pathogen","Phyllosticta leaf spot",4,1
@@ -921,7 +946,7 @@
 2020,"14-Sept","York","Stewartstown","R7","Pathogen","Sudden death syndrome",1,2
 2020,"14-Sept","Centre","","R7","Pathogen","Frogeye leaf spot",1,1
 2020,"14-Sept","Centre","","R7","Pathogen","Stem canker",3,1
-2020,"14-Sept","Centre","","R7","Pathogen","Soybean pod and stem blight",1,1
+2020,"14-Sept","Centre","","R7","Pathogen","Diaporthe/Phomopsis complex",1,1
 2020,"14-Sept","Beaver","Fombell","R7","Pathogen","Cercospora leaf blight",3,1
 2020,"14-Sept","Beaver","Fombell","R7","Pathogen","Frogeye leaf spot",2,1
 2020,"14-Sept","Crawford","Woodcock","R7","Pathogen","Frogeye leaf spot",1,1
@@ -931,15 +956,15 @@
 2022,"15-Aug","Somerset","Somerset","R4","Pathogen","Downy mildew",1,1
 2022,"15-Aug","Montgomery","Souderton","R1","Pathogen","Septoria brown spot",2,1
 2022,"15-Aug","Montgomery","Souderton","R1","Pathogen","Bacterial blight",2,1
-2022,"15-Aug","Butler","Saxonburg","R3","Pathogen","Soybean sudden death syndrome",1,1
-2022,"12-Aug","Washington","Independence","R6","Pathogen","Soybean sudden death syndrome",1,1
+2022,"15-Aug","Butler","Saxonburg","R3","Pathogen","Sudden death syndrome",1,1
+2022,"12-Aug","Washington","Independence","R6","Pathogen","Sudden death syndrome",1,1
 2019,"15-Jul","Lancaster","Landisville","R3","Pathogen","Septoria brown spot",1,1
 2019,"15-Jul","Crawford","","V8","Pathogen","Septoria brown spot",1,1
 2019,"15-Jul","Mckean","","V3","Pathogen","Septoria brown spot",1,1
 2019,"15-Jul","Potter","Ellisburg","R1","Pathogen","Septoria brown spot",1,1
 2019,"14-Jul","Potter","Galeton","R3","Pathogen","Septoria brown spot",1,1
 2024,"11-Jul","Lebanon","East Hanover","R1","Pathogen","Stem canker",1,1
-2020,"16-Jun","Lancaster","Manheim","V3.5","Pathogen","Damping off disease",1,1
+2020,"16-Jun","Lancaster","Manheim","V3.5","Pathogen","Pythium seedling blight",1,1
 2020,"15-Jun","Northumberland","Stewartstown","V2","Pathogen","Septoria brown spot",1,2
 2021,"20-Aug","Centre","Bellefonte","R5","Pathogen","Septoria brown spot",1,1
 2021,"20-Aug","Centre","Bellefonte","R5","Pathogen","Downy mildew",1,1
@@ -977,7 +1002,7 @@
 2019,"16-Sept","Centre","","R6","Pathogen","Frogeye leaf spot",1,1
 2019,"16-Sept","Centre","","R6","Pathogen","Bacterial blight",1,1
 2019,"16-Sept","Centre","","R6","Pathogen","White mold",1,1
-2019,"16-Sept","Franklin","","R8","Pathogen","Phompsis pod rot/stem blight",1,1
+2019,"16-Sept","Franklin","","R8","Pathogen","Diaporthe/Phomopsis complex",1,1
 2019,"16-Sept","Crawford","","R6","Pathogen","Frogeye leaf spot",1,1
 2019,"16-Sept","Crawford","","R6","Pathogen","Septoria brown spot",1,1
 2020,"18-Aug","Beaver","Fombell","R4","Pathogen","Cercospora leaf blight",1,1
@@ -991,7 +1016,7 @@
 2020,"17-Aug","Centre","","R5","Pathogen","Downy mildew",1,1
 2020,"17-Aug","Bradford","","R5","Pathogen","Septoria brown spot",1,1
 2020,"17-Aug","Blair","Sinking Valley","R6","Pathogen","Septoria brown spot",1,1
-2020,"17-Aug","Blair","Sinking Valley","R6","Pathogen","Anthracnose",1,1
+2020,"17-Aug","Blair","Sinking Valley","R6","Pathogen","Anthracnose stem blight",1,1
 2020,"17-Aug","Blair","Sinking Valley","R6","Pathogen","Bacterial blight",1,1
 2020,"17-Aug","Cessna","Bedford","R5","Pathogen","Septoria brown spot",1,1
 2020,"17-Aug","Cessna","Bedford","R5","Pathogen","Bacterial blight",1,1
@@ -1003,10 +1028,10 @@
 2020,"17-Aug","Northumberland","Milton","R5","Pathogen","Septoria brown spot",1,2
 2020,"17-Aug","Northumberland","Milton","R5","Pathogen","Downy mildew",1,2
 2020,"17-Aug","Northumberland","Milton","R5","Pathogen","Sudden death syndrome",1,2
-2020,"17-Aug","Potter","Oswayo","R5-R6","Pathogen","Septoria leaf spot",1,1
-2020,"17-Aug","Potter","Germania","R5-R6","Pathogen","Septoria leaf spot",1,2
+2020,"17-Aug","Potter","Oswayo","R5-R6","Pathogen","Septoria brown spot",1,1
+2020,"17-Aug","Potter","Germania","R5-R6","Pathogen","Septoria brown spot",1,2
 2020,"17-Aug","Montgomery","","R5","Pathogen","Septoria brown spot",1,1
-2020,"17-Aug","Montgomery","","R5","Pathogen","Soybean bacterial pustule",1,1
+2020,"17-Aug","Montgomery","","R5","Pathogen","Bacterial pustule",1,1
 2020,"17-Aug","Montgomery","","R5","Pathogen","Downy mildew",1,1
 2023,"17-Jul","Montgomery","Souderton","R2","Pathogen","Septoria brown spot",2,1
 2023,"14-Jul","Northumberland","Riverside","R3","Pathogen","Septoria brown spot",1,1
@@ -1024,58 +1049,60 @@
 2015,"06-Jul","Northumberland","","V5","Pathogen","Septoria brown spot",1,1
 2015,"06-Jul","Lebanon","Annville","R1","Pathogen","Septoria brown spot",1,1
 2015,"06-Jul","Franklin","Greencastle","R1-R2","Pathogen","Septoria brown spot",2,1
-2015,"06-Jul","Franklin","Greencastle","R1-R2","Pathogen","Bacterial leaf blight",1,1
-2015,"06-Jul","Franklin","Greencastle","R1-R2","Pathogen","Frog eye leaf spot",1,1
+2015,"06-Jul","Franklin","Greencastle","R1-R2","Pathogen","Bacterial blight",1,1
+2015,"06-Jul","Franklin","Greencastle","R1-R2","Pathogen","Frogeye leaf spot",1,1
 2015,"06-Jul","York","","R1","Pathogen","Downy mildew",1,1
 2015,"05-Jun","Lebanon","Annville","V2-3","Pathogen","Downy mildew",1,2
 2015,"13-Jun","Columbia","","V1","Pathogen","Septoria brown spot",3,1
 2015,"13-Jun","Union","","V1","Pathogen","Septoria brown spot",1,1
 2016,"19-Jul","Schuykill","","R2","Pathogen","Septoria brown spot",1,1
-2016,"18-Jul","Potter","","V5","Pathogen","Soybean blight",1,1
+2016,"18-Jul","Potter","","V5","Pathogen","Cercospora leaf blight",1,1
 2016,"18-Jul","Potter","","V5","Pathogen","Septoria brown spot",1,1
 2016,"18-Jul","Potter","","V5","Pathogen","Downy mildew",1,1
-2016,"18-Jul","Potter","","V5","Pathogen","Phyllostica leaf spot",1,1
-2016,"18-Jul","Mckean","","R1","Pathogen","Bacterial leaf blight",1,1
+2016,"18-Jul","Potter","","V5","Pathogen","Phyllosticta leaf spot",1,1
+2016,"18-Jul","Mckean","","R1","Pathogen","Bacterial blight",1,1
 2016,"18-Jul","Mckean","","R1","Pathogen","Septoria brown spot",1,1
-2016,"18-Jul","Mckean","","R1","Pathogen","Frog eye leaf spot",1,1
+2016,"18-Jul","Mckean","","R1","Pathogen","Frogeye leaf spot",1,1
 2016,"18-Jul","Elk","","V5","Pathogen","Septoria brown spot",1,1
 2016,"18-Jul","Elk","","V5","Pathogen","Downy mildew",1,1
-2016,"18-Jul","Columbia","","R2","Pathogen","Bean pod mottle virus",2,1
-2016,"14-Jun","York","","R2","Pathogen","Bacterial leaf blight",1,1
+2016,"18-Jul","Columbia","","R2","Pathogen","Bean pod mottle",2,1
+2016,"14-Jun","York","","R2","Pathogen","Bacterial blight",1,1
 2016,"27-Jun","Schuykill","","V3","Pathogen","Septoria brown spot",1,1
 2016,"27-Jun","Mercer","","R1","Pathogen","Septoria brown spot",1,1
-2016,"26-Jun","Mckean","","V3","Pathogen","Bacterial leaf wilt",1,1
+2016,"26-Jun","Mckean","","V3","Pathogen","Bacterial blight",1,1
 2016,"26-Jun","Mckean","","V3","Pathogen","Septoria brown spot",1,1
-2016,"26-Jun","Mckean","","V3","Pathogen","Frog eye leaf spot",1,1
-2016,"09-Aug","Crawford","","R3","Pathogen","Bacterial pustule",1,1
+2016,"26-Jun","Mckean","","V3","Pathogen","Frogeye leaf spot",1,1
+2016,"09-Aug","Crawford","","R3","Pathogen","Soybean bacterial pustule",1,1
 2016,"09-Aug","Lancaster","","R3","Pathogen","Septoria brown spot",1,1
-2016,"09-Aug","Lancaster","","R3","Pathogen","Frog eye leaf spot",1,1
-2016,"08-Aug","Potter","","R2","Pathogen","Phyllostica leaf spot",1,1
-2016,"08-Aug","Potter","","R2","Pathogen","Bacterial leaf blight",1,1
-2016,"08-Aug","Potter","","R2","Pathogen","Bacterial leaf blight",1,2
+2016,"09-Aug","Lancaster","","R3","Pathogen","Frogeye leaf spot",1,1
+2016,"08-Aug","Potter","","R2","Pathogen","Phyllosticta leaf spot",1,1
+2016,"08-Aug","Potter","","R2","Pathogen","Bacterial blight",1,1
+2016,"08-Aug","Potter","","R2","Pathogen","Bacterial blight",1,2
 2016,"08-Aug","Schuykill","","R4","Pathogen","Septoria brown spot",1,1
-2016,"04-Aug","York","","R4-5","Pathogen","Bacterial leaf blight",2,1
+2016,"04-Aug","York","","R4-5","Pathogen","Bacterial blight",2,1
 2017,"21-Aug","Armstrong","","R4","Pathogen","Septoria brown spot",1,1
-2017,"21-Aug","Armstrong","","R4","Pathogen","Frog eye leaf spot",1,1
+2017,"21-Aug","Armstrong","","R4","Pathogen","Frogeye leaf spot",1,1
 2017,"21-Aug","Crawford","","R5","Pathogen","Septoria brown spot",1,1
 2017,"21-Aug","Northumberland","","R5","Pathogen","Downy mildew",1,1
-2017,"20-Aug","Elk","","R3","Pathogen","Frog eye leaf spot",1,1
+2017,"20-Aug","Elk","","R3","Pathogen","Frogeye leaf spot",1,1
+2017,"20-Aug","Jefferson","","R2","Pathogen","Frogeye leaf spot",1,1
+2017,"20-Aug","Jefferson","","R2","Pathogen","Bacterial blight",1,1
 2017,"17-Aug","Clinton","Mill Hall","R3-4","Pathogen","Downy mildew",1,2
 2018,"10-Jul","Blair","","R1","Pathogen","Septoria brown spot",1,1
-2018,"10-Jul","Bedford","","R3","Pathogen","Frog eye leaf spot",1,1
-2018,"10-Jul","Bucks","","R2","Pathogen","Bacterial pustule",2,1
+2018,"10-Jul","Bedford","","R3","Pathogen","Frogeye leaf spot",1,1
+2018,"10-Jul","Bucks","","R2","Pathogen","Soybean bacterial pustule",2,1
 2018,"09-Jul","Butler","","R1","Pathogen","Septoria brown spot",2,1
 2018,"09-Jul","Cambria","","R2","Pathogen","Septoria brown spot",1,1
 2018,"09-Jul","Crawford","","V5","Pathogen","Septoria brown spot",1,1
 2018,"09-Jul","Lancaster","","R1","Pathogen","Septoria brown spot",1,1
 2018,"09-Jul","Mercer","","R1","Pathogen","Septoria brown spot",1,1
 2018,"09-Jul","Lebanon","","R2","Pathogen","Septoria brown spot",1,1
-2018,"09-Jul","Centre","","V4","Pathogen","Frog eye leaf spot",1,1
+2018,"09-Jul","Centre","","V4","Pathogen","Frogeye leaf spot",1,1
 2024,"09-Sept","Lancaster","","R6","Pathogen","Septoria brown spot",3,1
 2024,"09-Sept","Bedford","","R5","Pathogen","Septoria brown spot",1,1
-2024,"09-Sept","Bedford","","R5","Pathogen","Frog eye leaf spot",1,1
+2024,"09-Sept","Bedford","","R5","Pathogen","Frogeye leaf spot",1,1
 2024,"09-Sept","Somerset","Shanksville","R5","Pathogen","Septoria brown spot",1,1
-2024,"09-Sept","Somerset","Shanksville","R5","Pathogen","Frog eye leaf spot",1,1
+2024,"09-Sept","Somerset","Shanksville","R5","Pathogen","Frogeye leaf spot",1,1
 2024,"29-Aug","Centre","Bellefonte","R6","Pathogen","Downy mildew",1,1
 2024,"30-Aug","York","East York","R5","Pathogen","Downy mildew",1,1
 2024,"29-Aug","Franklin","Altenwald","R7","Pathogen","Downy mildew",1,1
@@ -1083,44 +1110,45 @@
 2024,"28-Aug","Cumberland","Newburg","R5","Pathogen","Bacterial blight",1,1
 2024,"28-Aug","Cumberland","Newburg","R5","Pathogen","Downy mildew",1,1
 2018,"11-Sept","Bradford","","R6","Pathogen","Septoria brown spot",2,1
-2018,"11-Sept","Bradford","","R6","Pathogen","Frog eye leaf spot",1,1
+2018,"11-Sept","Bradford","","R6","Pathogen","Frogeye leaf spot",1,1
 2018,"11-Sept","Bradford","","R6","Pathogen","White mold",1,1
-2018,"07-Sept","Centre","","R6","Pathogen","Alfalfa mosiac virus",1,1
-2018,"07-Sept","Centre","","R6","Pathogen","Frog eye leaf spot",1,1
+2018,"11-Sept","Crawford","","R6","Pathogen","Septoria brown spot",1,1
+2018,"07-Sept","Centre","","R6","Pathogen","Alfalfa mosaic virus",1,1
+2018,"07-Sept","Centre","","R6","Pathogen","Frogeye leaf spot",1,1
 2018,"07-Sept","Centre","","R6","Pathogen","Downy mildew",1,1
-2018,"07-Sept","Centre","","R6","Pathogen","Soybean sudden deathsyndrome",1,1
-2018,"07-Sept","Mercer","","R7","Pathogen","Frog eye leaf spot",1,1
+2018,"07-Sept","Centre","","R6","Pathogen","Sudden death syndrome",1,1
+2018,"07-Sept","Mercer","","R7","Pathogen","Frogeye leaf spot",1,1
 2018,"07-Sept","Mercer","","R7","Pathogen","Septoria brown spot",1,1
-2018,"07-Sept","Mercer","","R7","Pathogen","Soybean sudden deathsyndrome",1,1
+2018,"07-Sept","Mercer","","R7","Pathogen","Sudden death syndrome",1,1
 2018,"06-Sept","Union","","R6","Pathogen","Downy mildew",1,1
 2018,"06-Sept","Union","","R6","Pathogen","Septoria brown spot",1,1
-2018,"06-Sept","Northumberland","","R7","Pathogen","Soybean mosaic virus",1,1
-2018,"06-Sept","Northumberland","","R7","Pathogen","Frog eye leaf spot",1,1
+2018,"06-Sept","Northumberland","","R7","Pathogen","Soybean mosaic",1,1
+2018,"06-Sept","Northumberland","","R7","Pathogen","Frogeye leaf spot",1,1
 2021,"13-Jul","Montgomery","Souderton","R2","Pathogen","Septoria brown spot",1,1
 2021,"13-Jul","Montgomery","Souderton","R2","Pathogen","Cercospora leaf blight",1,1
 2021,"12-Jul","Cambria","Portage","R2","Pathogen","Septoria brown spot",1,1
 2021,"12-Jul","Bedford","New Paris","R2","Pathogen","Septoria brown spot",1,1
 2021,"12-Jul","Blair","Williamsburg","R1","Pathogen","Septoria brown spot",1,1
 2021,"12-Jul","Northumberland","Riverside","R3","Pathogen","Septoria brown spot",1,1
-2017,"24-Jun","Elk","Kersey","V2","Pathogen","Bacterial leaf wilt",1,1
+2017,"24-Jun","Elk","Kersey","V2","Pathogen","Bacterial blight",1,1
 2017,"08-Aug","Armstrong","","R3","Pathogen","Septoria brown spot",1,1
 2017,"08-Aug","Armstrong","","R3","Pathogen","Frogeye leaf spot",1,1
 2017,"08-Aug","Crawford","","R2-R3","Pathogen","Septoria brown spot",1,1
 2017,"07-Aug","Elk","","R2","Pathogen","Septoria brown spot",1,1
 2017,"07-Aug","Jefferson","","R1","Pathogen","Frogeye leaf spot",1,1
-2017,"07-Aug","Jefferson","","R1","Pathogen","Bacterial leaf blight",2,1
+2017,"07-Aug","Jefferson","","R1","Pathogen","Bacterial blight",2,1
 2017,"07-Aug","Mckean","","R1","Pathogen","Septoria brown spot",1,1
-2017,"07-Aug","Mckean","","R1","Pathogen","Bacterial leaf blight",1,1
+2017,"07-Aug","Mckean","","R1","Pathogen","Bacterial blight",1,1
 2017,"02-Aug","York","Stewartstown","R4","Pathogen","Septoria brown spot",1,1
 2017,"02-Aug","York","Stewartstown","R4","Pathogen","Frogeye leaf spot",1,1
 2017,"02-Aug","York","Stewartstown","R4","Pathogen","Downy mildew",1,1
 2017,"02-Aug","York","Stewartstown","R3","Pathogen","Downy mildew",1,1
 2017,"02-Aug","York","Windsor","R4-R5","Pathogen","Downy mildew",1,1
 2017,"08-Aug","Cambria","Loretto","R4-R5","Pathogen","Frogeye leaf spot",1,1
-2017,"08-Aug","Cambria","Loretto","R4-R5","Pathogen","Bacterial leaf blight",1,1
+2017,"08-Aug","Cambria","Loretto","R4-R5","Pathogen","Bacterial blight",1,1
 2017,"08-Aug","Blair","Martinsburg","R4","Pathogen","Septoria brown spot",1,1
-2019,"09-Sept","Adams","","R7","Pathogen","Soybean pod and stem blight",4,1
-2019,"09-Sept","York","","R6","Pathogen","Soybean sudden death syndrome",5,1
+2019,"09-Sept","Adams","","R7","Pathogen","Diaporthe/Phomopsis complex",4,1
+2019,"09-Sept","York","","R6","Pathogen","Sudden death syndrome",5,1
 2019,"09-Sept","Crawford","","R6","Pathogen","Frogeye leaf spot",1,1
 2019,"09-Sept","Crawford","","R6","Pathogen","Septoria brown spot",1,1
 2019,"08-Sept","Potter","","R6","Pathogen","Frogeye leaf spot",2,1
@@ -1132,6 +1160,7 @@
 2019,"03-Sept","Montgomery","","R6","Pathogen","Frogeye leaf spot",1,1
 2019,"03-Sept","Montgomery","","R6","Pathogen","Septoria brown spot",1,1
 2019,"03-Sept","Bradford","","R6","Pathogen","Frogeye leaf spot",1,1
+2019,"03-Sept","Bradford","","R6","Pathogen","Frogeye leaf spot",1,1
 2022,"12-Jul","Washington","","R2","Pathogen","Sudden death syndrome",1,1
 2022,"12-Jul","Washington","","R2","Pathogen","Brown stem rot",1,1
 2022,"11-Jul","Lancaster","Manheim","R2","Pathogen","Septoria brown spot",1,1
@@ -1140,6 +1169,7 @@
 2022,"11-Jul","Northumberland","Rushtown","R3","Pathogen","Soybean vein necrosis",1,1
 2022,"11-Jul","Adams","Littlestown","R3","Pathogen","Downy mildew",1,1
 2022,"08-Jul","Chester","Parkesburg","R2","Pathogen","Septoria brown spot",1,1
+2022,"13-Sept","Centre","Bellefonte and State college","R6","Pathogen","Downy mildew",1,1
 2022,"13-Sept","Centre","Bellefonte and State college","R6","Pathogen","White mold",1,1
 2022,"13-Sept","Centre","Bellefonte and State college","R6","Pathogen","Stem canker",1,1
 2022,"12-Sept","Lancaster","Manheim","R7","Pathogen","Septoria brown spot",2,1
